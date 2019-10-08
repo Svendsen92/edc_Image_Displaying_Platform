@@ -1,0 +1,2521 @@
+﻿
+
+
+<!DOCTYPE html>
+<html class="no-js">
+<head><meta charset="utf-8" /><link rel="dns-prefetch" href="//ajax.googleapis.com" /><link rel="dns-prefetch" href="//billeder.edc.dk/" /><link rel="dns-prefetch" href="//www.googletagmanager.com" /><link rel="dns-prefetch" href="//ls.hit.gemius.pl" /><link rel="dns-prefetch" href="//track.adform.net" /><link rel="dns-prefetch" href="//jubdk.nuggad.net" /><link rel="dns-prefetch" href="//server.adformdsp.net" /><title>
+	##EstateTypeSingular## til ##caseType## - ##Address##, ##Zipcode## ##City##
+</title>
+
+
+<meta name="description" content="Se ##EstateTypeSingular## til ##caseType## hos ##Agency##. ##EstateTypeSingular## til ##caseType## på ##Address##, ##Zipcode## ##City##." />
+<meta name="keywords" content="##EstateTypeSingular##, ##caseType##, ##Address##, ##Zipcode## ##City##" />
+<link rel="canonical" href="https://www.edc.dk/alle-boliger/hj%c3%b8rring/9800/klitten-7/" />    
+
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.edc.dk/alle-boliger/hjørring/9800/klitten-7/?sagsnr=98401577" />
+
+ 
+<link rel="icon shortcut" type="image/x-icon" href='/globalassets/media/logo/16x16-favicon-desktop-2016.ico' />
+<link rel="icon" type="image/x-icon" href='/globalassets/media/logo/16x16-favicon-desktop-2016.ico' />
+
+<meta name="application-name" content="EDC" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/globalassets/media/logo/152x152-apple-touch-icon-2016.png" />        
+
+<link rel="apple-touch-icon-precomposed" href='/globalassets/media/logo/57x57-apple-touch-icon-2016.png' />
+
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href='/globalassets/media/logo/76x76-apple-touch-icon-2016.png' />
+
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href='/globalassets/media/logo/120x120-apple-touch-icon-2016.png' />
+
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href='/globalassets/media/logo/152x152-apple-touch-icon-2016.png' /> 
+<link rel='stylesheet' href='/dist/main.css?ts=636981920113976206' />
+    <script type="text/javascript" src="/Static/Scripts/gtm/gtm.js"></script>
+    
+    <!--[if IE 8]>
+        <script src="/Static/Scripts/vendor/svg4everybody.min.js"></script>
+        <script>svg4everybody();</script>
+    <![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    
+    <script src="/Handlers/MapScriptSetup.ashx"></script>
+
+
+<meta property="og:type" content="website" /><meta property="og:url" content="https://www.edc.dk/alle-boliger/hjørring/9800/klitten-7/?sagsnr=98401577" /><meta property="og:title" content="" /><meta property="og:description" content="" /><meta property="og:image" content="http://billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size1920x1080.jpg" /><meta property="og:image:secure_url" content="https://billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size1920x1080.jpg" />
+ 
+
+    <script src="/Static/Scripts/vendor/modernizr-2.6.2.min.js"></script>
+
+    
+<script type="text/javascript">
+var springq = springq || [];
+springq.push({
+    "s": "edc", 
+    "cp": "edc/sag", 
+    "url": document.location.href
+});
+    
+window.gallupContentPath = "edc/sag";
+</script>                              
+             
+
+    <noscript>
+         <img src="http://edc.tns-gallup.dk/j0=,,,;+,cp=edc/sag+url=http://www.edc.dk/sag/;;;" alt="" />
+    </noscript>                                                   
+
+
+                                                                                             
+
+    <!-- Start Visual Website Optimizer Synchronous Code -->
+<script type='text/javascript'>
+    var _vis_opt_account_id = 160796;
+    var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+    document.write('<s' + 'cript src="' + _vis_opt_protocol +
+    'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a=' + _vis_opt_account_id + '&url='
+    + encodeURIComponent(document.URL) + '&random=' + Math.random() + '" type="text/javascript">' + '<\/s' + 'cript>');
+</script>
+
+<script type='text/javascript'>
+    if (typeof (_vis_opt_settings_loaded) == "boolean") {
+        document.write('<s' + 'cript src="' + _vis_opt_protocol +
+        'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>');
+    }
+    // if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+</script>
+
+<script type='text/javascript'>
+    if (typeof (_vis_opt_settings_loaded) == "boolean" && typeof (_vis_opt_top_initialize) == "function") {
+        _vis_opt_top_initialize(); vwo_$(document).ready(function () { _vis_opt_bottom_initialize(); });
+    }
+</script>
+<!-- End Visual Website Optimizer Synchronous Code -->
+
+</head>
+<body class="desktop" data-section-type="normal" data-attr-origin="" data-autosuggest-complete="False" data-autosuggest-delay="500" data-division="Private">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-QT6M" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+  
+    <form method="post" action="/alle-boliger/hj%C3%B8rring/9800/klitten-7/./?sagsnr=98401577" id="form1">
+<div class="aspNetHidden">
+
+</div>
+
+        
+    <div class="loginbox__wrapper" data-isloggedin="False">
+    </div>
+    <header class="case-header">
+        
+<div id="servicemenu" class="divider js-hidden">
+    <div class="row">
+        <div class="col-6">
+            
+                    <ul class="servicemenu">
+                
+                    <li class="servicemenu__item">
+                        <a title="Bolig" class="servicemenu__link--active" href="/">Bolig</a>
+                    </li>
+                
+                    <li class="servicemenu__item">
+                        <a title="Erhverv" class="servicemenu__link" href="/erhverv/">Erhverv</a>
+                    </li>
+                
+                    <li class="servicemenu__item">
+                        <a title="Landbrug" class="servicemenu__link" href="/landbrug/">Landbrug</a>
+                    </li>
+                
+                    <li class="servicemenu__item">
+                        <a title="Fritidshus" class="servicemenu__link" href="/sommerhuse/">Fritidshus</a>
+                    </li>
+                
+                    <li class="servicemenu__item">
+                        <a title="Leje" class="servicemenu__link" href="/leje/">Leje</a>
+                    </li>
+                
+                    <li><a class="servicemenu__minimizesearch" title="Skjul top">Skjul top</a></li>
+                    </ul>
+        </div>
+        
+            <div class="col-6 omega">
+                <ul class="servicemenu float--right">
+                    <li class="servicemenu__item">
+                        <span class="servicemenu__link">Danmarks største boligsite - Se alle boliger til salg i hele Danmark</span>
+                    </li>
+                </ul>
+            </div>
+        
+    </div>
+</div>
+
+        
+
+<div class="nav-primary-con group" data-hook="nav-primary-con">
+    
+    <div class="nav-primary-con__identity">
+        
+
+
+    <a href="/" class="nav-primary-con__logo">
+        <img src="/globalassets/media/logo/edc-logo-ny-2016.svg" data-png-fallback="/globalassets/media/logo/edc-logo-ny-2016.png" />
+    </a>
+
+
+        <h2 class="nav-primary-con__byline">Alle boliger og købere samlet ét sted</h2>
+    </div>
+
+
+
+    
+        
+        <div class="search-header" data-toggle-parent="search-header">
+            
+            <a href="#" class="search-header__toggle-btn" data-toggle-btn="search-header">
+                <label>Søg</label>
+            </a>
+        </div>
+    
+
+    
+    
+    
+        <div class="login" data-toggle-parent="login" data-isloggedin="False" data-isbusiness="False">
+            
+            <a href="https://www.edc.dk/mit-edc/login-header-site/" class="login__toggle-btn" data-login="" data-toggle-btn="login">
+                <label>Login</label>
+            </a>
+            
+            <div class="login__toggle-container" data-toggle-con="login">
+                <div class="loader__spinner"></div>
+                <div class="flow login__iframe-create">
+                    <div class="form">
+                        <h3>Opret dig på Mit EDC</h3>
+                        <p>Du får adgang til en masse fordele, når du søger efter en ny bolig eller skal sælge</p>
+                        <a href="https://www.edc.dk/mit-edc/opret-profil/" data-overlay="" class="btn--quaternary" data-hook="create-user">
+                            <span>Opret profil</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+<div class="nav-primary" data-toggle-parent="nav-primary">
+    
+    
+    
+        <a href="#" class="nav-primary__btn selected" data-toggle-btn="nav-primary">
+            <div class="nav-primary__toggle-bars">
+                <span></span>
+            </div>
+            <div class="nav-primary__btn__label">Privat</div>
+        </a>
+    
+</div>
+
+    
+
+    
+    <div class="nav-primary__container col-three" data-toggle-con="nav-primary">
+        <div class="header__menu__division-picker row">
+            
+            <div><div class="block " data-tnt="block16860">
+	
+
+<ul class="division-picker__inner-container">
+    
+            <li class="division-picker__item ">
+                <a title="Privat" href="/">
+                        Privat
+                </a>
+            </li>
+        
+            <li class="division-picker__item ">
+                <a title="Fritidshus" href="/sommerhuse/">
+                        Fritidshus
+                </a>
+            </li>
+        
+            <li class="division-picker__item ">
+                <a title="Landbrug" href="/landbrug/">
+                        Landbrug
+                </a>
+            </li>
+        
+            <li class="division-picker__item ">
+                <a title="Leje" href="/leje/">
+                        Leje
+                </a>
+            </li>
+        
+            <li class="division-picker__item ">
+                <a title="Erhverv" href="/erhverv/">
+                        Erhverv
+                </a>
+            </li>
+        
+</ul>
+</div></div>
+
+        </div>
+        <div class="nav-primary__container-inner row">
+            
+            <div class="nav-primary__col"><div class="block " data-tnt="block10925">
+	<h3>Salg af bolig</h3>
+
+
+        <ul>
+    
+        <li>
+            <a class="" title="Sådan sælger du" href="/boligsalg/">Sådan sælger du</a>
+        </li>
+    
+        <li>
+            <a class="" title="Salgsproces" href="/boligsalg/salgsmodeller/">Salgsproces</a>
+        </li>
+    
+        <li>
+            <a class="" title="Find din køber" href="/boligsalg/find-koeber/">Find din køber</a>
+        </li>
+    
+        <li>
+            <a class="" title="Salgstjek" href="/boligsalg/bestil-et-gratis-salgstjek/">Salgstjek</a>
+        </li>
+    
+        <li>
+            <a class="" title="Salg i udlandet" href="/boligsalg/salg-i-udlandet/">Salg i udlandet</a>
+        </li>
+    
+        <li>
+            <a class="" title="Få et Kvikestimat" href="/boligsalg/kvikestimat/">Få et Kvikestimat</a>
+        </li>
+    
+        </ul>
+    
+
+</div></div>
+
+
+            <div class="nav-primary__col"><div class="block " data-tnt="block10930">
+	<h3>Køb af bolig</h3>
+
+
+        <ul>
+    
+        <li>
+            <a class="" title="Sådan køber du" href="/boligkoeb/">Sådan køber du</a>
+        </li>
+    
+        <li>
+            <a class="" title="Købermægler" href="/boligkoeb/edc-koebermaegler/">Købermægler</a>
+        </li>
+    
+        <li>
+            <a class="" title="Køberkartotek" href="/boligkoeb/koeberkartotek/">Køberkartotek</a>
+        </li>
+    
+        <li>
+            <a class="" title="Forældrekøb" href="/boligkoeb/foraeldrekoeb/">Forældrekøb</a>
+        </li>
+    
+        <li>
+            <a class="" title="Projektsalg" href="/projektsalg/">Projektsalg</a>
+        </li>
+    
+        <li>
+            <a class="" title="Køb i udlandet" href="/boligkoeb/udlandet/">Køb i udlandet</a>
+        </li>
+    
+        </ul>
+    
+
+</div></div>
+
+
+            <div class="nav-primary__col"><div class="block " data-tnt="block10931">
+	<h3>Genveje</h3>
+
+
+        <ul>
+    
+        <li>
+            <a class="" title="Find mægler" href="/find-ejendomsmaegler/">Find mægler</a>
+        </li>
+    
+        <li>
+            <a class="" title="Lån &amp; forsikring" href="/lan-og-forsikring/">Lån & forsikring</a>
+        </li>
+    
+        <li>
+            <a class="" title="Nyheder" href="/om-edc/nyt-fra-edc/nyheder/">Nyheder</a>
+        </li>
+    
+        <li>
+            <a class="" title="Boligmarkedet" href="/boligmarkedet/">Boligmarkedet</a>
+        </li>
+    
+        <li>
+            <a class="" title="Boliginspiration" href="/boliginspiration/">Boliginspiration</a>
+        </li>
+    
+        <li>
+            <a class="" title="Kontakt os" href="/om-edc/kontakt-os/">Kontakt os</a>
+        </li>
+    
+        </ul>
+    
+
+</div></div>
+
+
+            
+
+        </div>
+    </div>
+    
+        
+        <div class="search-header__toggle-container" data-toggle-con="search-header">
+            
+                    <div>
+	
+
+<div class="search-con" data-hook="search-con">
+    <div class="search-con-inner">
+        <h1>Nu kan du søge blandt alle boliger i Danmark</h1>
+
+        
+        
+                <div class="search-con__tabs group" data-hook="search-tabs">
+            
+                
+                    <a href="#" class="search-con__tab active" data-tab="quicksearch" data-hook="search-tab" id="#soeg_boliger_til_salg">
+                        <p>Søg blandt</p>
+<p>66212 boliger til salg</p>
+                    </a>
+                
+            
+                
+                    <a href="#" class="search-con__tab " data-tab="sold" data-hook="search-tab" id="#soeg_boliger_solgte">
+                        <p>Se priser på&nbsp;</p>
+<p>+2 mio. solgte boliger</p>
+                    </a>
+                
+            
+                
+                    <a href="#" class="search-con__tab " data-tab="estate" data-hook="search-tab" id="#soeg_se_vaerdien">
+                        <p>Se værdien</p>
+<p>på din bolig</p>
+                    </a>
+                
+            
+                </div>
+            
+
+        
+        <div class="search-con__content">
+            <div><div class="block " data-tnt="block10855">
+		
+
+<div class="quick-search-con search-con__block group active" data-tab-con="quicksearch">
+    <div class="search-con__primary-fields-con">
+        <div class="search-con__primary-fields group" data-hook="search-con__primary-fields">
+            
+            <div class="field primary-search-field">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxSearch" id="TextBoxSearch" tabindex="1" class="autosuggestinput" type="search" autocomplete="off" title="Indtast fx. postnr, by, vej eller sagsnr." placeholder="Indtast fx. postnr, by, vej eller sagsnr." data-division="Private" />
+                <div class="searchsuggest"></div>
+            </div>
+            
+            
+<div class="field type-search-field" tabindex="2" data-hook="search-field-types">
+    <div class="search-drop-down">
+        <a href="#" title="" class="search-drop-down__btn" data-dd-btn="boligtyper" data-default-str="Alle boligtyper">Alle boligtyper</a>
+        <div class="search-drop-down__content" data-dd-con="boligtyper" data-field-relation="estatetypes">
+            
+                    <span class="custom-checkbox" data-etvcode="1" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl00$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_0">Villa</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="2" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_1" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl01$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_1">Villalejlighed</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="3" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_2" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl02$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_2">Rækkehus</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="4" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_3" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl03$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_3">Ejerlejlighed</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="5" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_4" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl04$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_4">Fritidshus</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="6" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_5" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl05$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_5">Fritidsgrund</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="7" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_6" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl06$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_6">Helårsgrund</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="8" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_7" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl07$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_7">Andelsbolig</label></span>
+                
+                    <span class="custom-checkbox" data-etvcode="9" data-property-type="Private"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_8" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$SearchEstateTypes$rptEstateTypes$ctl08$CheckBoxEstateTypeVirtual" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_SearchEstateTypes_0_rptEstateTypes_0_CheckBoxEstateTypeVirtual_8">Landejendom</label></span>
+                
+            <div data-js="hidden-checkboxes"></div>
+        </div>
+    </div>
+</div>
+
+
+            
+            <div class="field price-search-field" tabindex="3" data-hook="search-field-prices">
+                <div class="search-drop-down">
+                    <a href="#" title="Alle priser" class="search-drop-down__btn" data-dd-btn="priser" data-default-str="Alle priser">Alle priser</a>
+                    <div class="search-drop-down__content" data-dd-con="priser">
+                        <div class="search-drop-down__content-inner" data-field-relation="price" data-property-type="Private">
+                            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxPriceMin" id="TextBoxPriceMin" class="intmask" type="tel" data-hook="input-min" title="Min. pris" placeholder="Min. pris" />
+                            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxPriceMax" id="TextBoxPriceMax" class="intmask" type="tel" data-hook="input-max" title="Max. pris" placeholder="Max. pris" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="field submit-search-field">
+                <button onclick="__doPostBack(&#39;ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$buttonSearch&#39;,&#39;&#39;)" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_buttonSearch_0" tabindex="4" data-hook="quick-search-btn">Søg</button>
+            </div>
+
+            <div class="searchsuggest"></div>
+            <input type="hidden" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$HiddenFieldQuickSearchValue" id="HiddenFieldQuickSearchValue" />
+
+        </div>
+
+    </div>
+    <div class="search-con__reset-fields">
+        <a href="#" class="search-con__reset-fields-btn" data-hook="reset-search-btn">Nulstil søgning</a>
+    </div>
+    
+
+    <div class="expanded-search">
+
+        <div id="soeg_flere_kriterier" class="expanded-search__toggle-btn" data-search-toggle-btn="expand-search" data-text-open="Skjul søgekriterier" data-text-closed="Flere søgekriterier">Flere søgekriterier</div>
+        
+        <div class="expanded-search__con" data-toggle-con="expand-search">
+
+            
+            <div class="expanded-search__row expanded-search__row--facilities group">
+                <a href="#" class="expanded-search__row-expand-btn" data-search-toggle-sub-btn="expand-facilities"></a>
+                <div class="expanded-search__label">Faciliteter</div>
+                <div class="expanded-search__inputs-con">
+                    <div class="expanded-search__inputs-row group">
+                        
+                                <div class="expanded-search__inputs expanded-search__col0">
+                                    <ul>
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="altan" data-field-relation="Balcony"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesHighlighted$ctl00$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_0">Altan</label></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                                <div class="expanded-search__inputs expanded-search__col1">
+                                    <ul>
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="husdyr" data-field-relation="PetsAllowed"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_1" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesHighlighted$ctl01$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_1">Husdyr tilladt</label></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                                <div class="expanded-search__inputs expanded-search__col2">
+                                    <ul>
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="elevator" data-field-relation="Elevator"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_2" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesHighlighted$ctl02$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_2">Elevator</label></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                                <div class="expanded-search__inputs expanded-search__col3">
+                                    <ul>
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="kalderrum" data-field-relation="BasementRoom"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_3" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesHighlighted$ctl03$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesHighlighted_0_CheckBox_3">Kælderrum</label></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                        <div class="expanded-search__inputs expanded-search__col4">
+                            <ul>
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-field-relation="onlyopenhouse"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_CheckBoxOnlyOpenHouse_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$CheckBoxOnlyOpenHouse" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_CheckBoxOnlyOpenHouse_0">Boliger med åbent hus</label></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="expanded-search__row-inner" data-toggle-sub-con="expand-facilities">
+                        
+                        
+                                <div class="expanded-search__inputs expanded-search__col0">
+                                    <ul>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="vaskeri" data-field-relation="LaundryRoom"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColA$ctl01$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_0">Vaskeri</label></span>
+                                </li>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="legeplads" data-field-relation="Playground"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_1" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColA$ctl02$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_1">Legeplads</label></span>
+                                </li>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="mobleret" data-field-relation="Furnished"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_2" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColA$ctl03$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_2">Møbleret</label></span>
+                                </li>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="projekt" data-field-relation="ProjectSale"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_3" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColA$ctl04$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColA_0_CheckBox_3">Projektsalg</label></span>
+                                </li>
+                            
+                        </ul>
+                                           
+                    </div>
+                    
+                       
+                    
+                                <div class="expanded-search__inputs expanded-search__col1">
+                                    <ul>
+                            
+                                <li class="n123">
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="torrerum" data-field-relation="DryingRoom"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColB$ctl01$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_0">Tørrerum</label></span>
+                                </li>
+                            
+                                <li class="n123">
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="cykelkalder" data-field-relation="BicycleStorage"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_1" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColB$ctl02$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_1">Cykelkælder</label></span>
+                                </li>
+                            
+                                <li class="n123">
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="licitation" data-field-relation="LicitationOffer"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_2" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColB$ctl03$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_2">Licitation/Udbud</label></span>
+                                </li>
+                            
+                                <li class="n123">
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="ingenbopalspligt" data-field-relation="NoResidenceRequirement"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_3" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColB$ctl04$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColB_0_CheckBox_3">Ingen bopælspligt</label></span>
+                                </li>
+                            
+                    </ul>
+                                           
+                </div>
+                
+                       
+                <div class="expanded-search__inputs expanded-search__col2">
+                    <ul>
+                        
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="dortlf" data-field-relation="DoorPhone"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColC_0_CheckBox_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColC$ctl00$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColC_0_CheckBox_0">Dørtelefon</label></span>                                            
+                                        </li>
+                                    
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="fremlejeret" data-field-relation="SubleaseRight"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColC_0_CheckBox_1" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColC$ctl01$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColC_0_CheckBox_1">Fremlejeret</label></span>                                            
+                                        </li>
+                                    
+                                        <li>
+                                            <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="loftsrum" data-field-relation="AtticRoom"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColC_0_CheckBox_2" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColC$ctl02$CheckBox" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColC_0_CheckBox_2">Loftrum</label></span>                                            
+                                        </li>
+                                    
+                    </ul>
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxFreeText" type="text" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_TextBoxFreeText_0" title="Fritekst" placeholder="Fritekst" />
+                </div>
+                
+                                <div class="expanded-search__inputs expanded-search__col3">
+                                    <ul>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="gardmiljo" data-field-relation="Courtyard"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColD_0_CheckBox1_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColD$ctl01$CheckBox1" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColD_0_CheckBox1_0">Gårdmiljø</label></span>   
+                                </li>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="liebhaver" data-field-relation="LuxuriousMansion"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColD_0_CheckBox1_1" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColD$ctl02$CheckBox1" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColD_0_CheckBox1_1">Liebhaverejendom</label></span>   
+                                </li>
+                            
+                                <li>
+                                    <span class="custom-checkbox custom-checkbox--beta" data-qsvalue="foraeldrekob" data-field-relation="ParentPurchaseSuitable"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColD_0_CheckBox1_2" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$rptFacilitiesColD$ctl03$CheckBox1" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_rptFacilitiesColD_0_CheckBox1_2">Forældrekøbsegnet</label></span>   
+                                </li>
+                            
+                </ul>
+                                           
+            </div>
+            
+                       
+            <div class="expanded-search__inputs expanded-search__col4">
+                <ul>
+                    <li>
+                        <span class="custom-checkbox custom-checkbox--beta" data-property-type="Private" data-field-relation="onlyedc"><input id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_CheckBoxOnlyEdc_0" type="checkbox" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$CheckBoxOnlyEdc" /><label for="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl01_0_ctl00_0_CheckBoxOnlyEdc_0">Kun ejendomme fra EDC</label></span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="expanded-search__row expanded-search__row--house group">
+    <a href="#" class="expanded-search__row-expand-btn" data-search-toggle-sub-btn="expand-house"></a>
+    <div class="expanded-search__label">Boligen</div>
+    <div class="expanded-search__inputs">
+        
+        <div class="sibling-inputs" data-field-relation="livingarea">
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxLivingAreaMin" id="TextBoxLivingAreaMin" class="intmask" type="tel" title="Boligareal min" placeholder="Boligareal min" />
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxLivingAreaMax" id="TextBoxLivingAreaMax" class="intmask" type="tel" title="Boligareal max" placeholder="Boligareal max" />
+        </div>
+        
+        <div class="sibling-inputs" data-field-relation="landarea" data-property-type="Private">
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxAreaMin" id="TextBoxAreaMin" class="intmask" type="tel" title="Grundareal min" placeholder="Grundareal min" />
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxAreaMax" id="TextBoxAreaMax" class="intmask" type="tel" title="Grundareal max" placeholder="Grundareal max" />
+        </div>
+        
+        <div class="custom-dd-con search-drop-down" data-hook="search-field-rooms">
+            <a href="#" title="" class="custom-dd-btn" data-custom-dd="house-room" data-dd-btn="Rum" data-default-str="Rum">Rum</a>
+            <div class="custom-dd-content">
+                <div class="sibling-inputs" data-field-relation="rooms">
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxRoomsMin" id="TextBoxRoomsMin" class="intmask" type="tel" data-hook="input-min-rooms" title="Min" placeholder="Min" />
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxRoomsMax" id="TextBoxRoomsMax" class="intmask" type="tel" data-hook="input-max-rooms" title="Max" placeholder="Max" />
+                </div>
+            </div>
+        </div>
+        <div class="expanded-search__row-inner" data-toggle-sub-con="expand-house">
+            
+            <div class="custom-dd-con search-drop-down" data-hook="search-field-numberoffloors">
+                <a href="#" title="" class="custom-dd-btn" data-custom-dd="numberoffloors" data-dd-btn="Antalplan" data-default-str="Antal plan">Antal plan</a>
+                <div class="custom-dd-content">
+                    <div class="sibling-inputs" data-field-relation="numberoffloors">
+                        <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxNumberOfFloorsMin" id="TextBoxNumberOfFloorsMin" class="intmask" type="tel" data-hook="input-min-numberoffloors" title="Min" placeholder="Min" />
+                        <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxNumberOfFloorsMax" id="TextBoxNumberOfFloorsMax" class="intmask" type="tel" data-hook="input-max-numberoffloors" title="Max" placeholder="Max" />
+                    </div>
+                </div>
+            </div>
+            
+            <div class="custom-dd-con search-drop-down" data-hook="search-field-floors">
+                <a href="#" title="" class="custom-dd-btn" data-custom-dd="floors" data-dd-btn="Antaletager" data-default-str="Etager">Etager</a>
+                <div class="custom-dd-content">
+                    <div class="sibling-inputs" data-field-relation="floors">
+                        <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxFloorsMin" id="TextBoxFloorsMin" class="intmask" type="tel" data-hook="input-min-floors" title="Min" placeholder="Min" />
+                        <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxFloorsMax" id="TextBoxFloorsMax" class="intmask" type="tel" data-hook="input-max-floors" title="Max" placeholder="Max" />
+                    </div>
+                </div>
+            </div>
+            
+            <div class="sibling-inputs" data-field-relation="yearbuilt" data-property-type="Private">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxYearBuiltMin" id="TextBoxYearBuiltMin" type="tel" title="Byggeår min" placeholder="Byggeår min" />
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxYearBuiltMax" id="TextBoxYearBuiltMax" type="tel" title="Byggeår max" placeholder="Byggeår max" />
+            </div>
+            
+            <div class="custom-select-con" data-field-relation="energyrating" data-property-type="Private">
+                <select name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$DropDownListEnergyRating" id="DropDownListEnergyRating" class="customselect" data-placeholder="Energimærke">
+			<option value="-1">Energim&#230;rke</option>
+			<option value="A1" class="energyclass_A1--option">Min. A1</option>
+			<option value="A2" class="energyclass_A2--option">Min. A2</option>
+			<option value="A2010" class="energyclass_A2010--option">Min. A2010</option>
+			<option value="A2015" class="energyclass_A2015--option">Min. A2015</option>
+			<option value="A2020" class="energyclass_A2020--option">Min. A2020</option>
+			<option value="B" class="energyclass_B--option">Min. B</option>
+			<option value="C" class="energyclass_C--option">Min. C</option>
+			<option value="D" class="energyclass_D--option">Min. D</option>
+			<option value="E" class="energyclass_E--option">Min. E</option>
+			<option value="F" class="energyclass_F--option">Min. F</option>
+			<option value="G" class="energyclass_G--option">Min. G</option>
+
+		</select>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="expanded-search__row expanded-search__row--economy group">
+    <a href="#" class="expanded-search__row-expand-btn" data-search-toggle-sub-btn="expand-economi"></a>
+    <div class="expanded-search__label">Økonomi</div>
+    <div class="expanded-search__inputs">
+        
+        <div class="sibling-inputs" data-field-relation="grossprice" data-property-type="Private">
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxGrossPriceMin" id="TextBoxGrossPriceMin" class="intmask" type="tel" title="Brutto min" placeholder="Brutto min" />
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxGrossPriceMax" id="TextBoxGrossPriceMax" class="intmask" type="tel" title="Brutto max" placeholder="Brutto max" />
+        </div>
+        
+        <div class="sibling-inputs" data-field-relation="netprice" data-property-type="Private">
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxNetPriceMin" id="TextBoxNetPriceMin" class="intmask" type="tel" title="Netto min" placeholder="Netto min" />
+            <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxNetPriceMax" id="TextBoxNetPriceMax" class="intmask" type="tel" title="Netto max" placeholder="Netto max" />
+        </div>
+        
+        <div class="custom-dd-con search-drop-down" data-hook="search-field-salesperiod">
+            <a href="#" title="" class="custom-dd-btn" data-custom-dd="salesperiod" data-dd-btn="Liggetid" data-default-str="Liggetid">Liggetid</a>
+            <div class="custom-dd-content">
+                <div class="sibling-inputs" data-field-relation="salesperiod">
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxSalesPeriodMin" id="TextBoxSalesPeriodMin" class="intmask" type="tel" data-hook="input-min-salesperiod" title="Min" placeholder="Min" />
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$TextBoxSalesPeriodMax" id="TextBoxSalesPeriodMax" class="intmask" type="tel" data-hook="input-max-salesperiod" title="Max" placeholder="Max" />
+                </div>
+            </div>
+        </div>
+        <div class="expanded-search__row-inner" data-toggle-sub-con="expand-economi">
+            
+            <div class="custom-select-con" data-field-relation="cashpricechange" data-property-type="Private">
+                <select name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl01$ctl00$DropDownListCashPriceChange" id="DropDownListCashPriceChange" class="customselect" data-placeholder="Prisfald">
+			<option value="-1">Prisfald</option>
+			<option value="10">Min 10%</option>
+			<option value="20">Min 20%</option>
+			<option value="30">Min 30%</option>
+			<option value="40">Min 40%</option>
+			<option value="50">Min 50%</option>
+
+		</select>
+            </div>
+        </div>
+    </div>
+
+</div>
+</div>
+    </div>
+
+   
+
+
+
+</div>
+
+
+	</div><div class="block " data-tnt="block10869">
+		
+
+<div class="sold-search-con search-con__block group " data-tab-con="sold">
+    <div class="search-con__primary-fields-con">
+        <div class="search-con__primary-fields group" data-validation="on" data-hook="search-con__primary-fields">
+            
+            <div class="field primary-search-field">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl02$ctl00$TextBoxZipAddress" value="klitten, 9800 Hjørring" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl02_0_ctl00_0_TextBoxZipAddress_0" tabindex="1" type="search" autocomplete="off" data-autosuggest="address" data-validation-rules="isNotEmpty" data-handlermethod="/api/FindBuyerAutoSuggest/GetSuggestions/" title="Indtast adresse eller postnr" placeholder="Indtast adresse eller postnr" data-validation-text="Ugyldig adresse" />
+                <div data-autosuggest-con="address"></div>
+            </div>
+            
+            <div class="field house-number-search-field">                
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl02$ctl00$TextBoxHouseNumber" value="7" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl02_0_ctl00_0_TextBoxHouseNumber_0" tabindex="2" type="search" autocomplete="off" data-autosuggest="housenumber" title="Husnr." placeholder="Husnr." />
+                <div data-autosuggest-con="housenumber"></div>
+            </div>
+            
+            <div class="field house-floor-search-field">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl02$ctl00$TextBoxFloorDescription" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl02_0_ctl00_0_TextBoxFloorDescription_0" tabindex="3" type="search" autocomplete="off" data-autosuggest="floor" title="Etage" placeholder="Etage" />
+                <div data-autosuggest-con="floor"></div>
+            </div>
+            
+            <div class="field type-search-field" data-hook="sold-custom-select">
+                <select name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl02$ctl00$DropDownListEstateTypes" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl02_0_ctl00_0_DropDownListEstateTypes_0" tabindex="4" class="customselect">
+			<option selected="selected" value="0">Alle boligtyper</option>
+			<option value="1">Villa</option>
+			<option value="2">Villalejlighed</option>
+			<option value="3">R&#230;kkehus</option>
+			<option value="4">Ejerlejlighed</option>
+			<option value="5">Fritidshus</option>
+			<option value="6">Fritidsgrund</option>
+			<option value="7">Hel&#229;rsgrund</option>
+			<option value="8">Andelsbolig</option>
+			<option value="9">Landejendom</option>
+
+		</select>
+            </div>
+            
+            <div class="field trades-search-field" data-hook="sold-custom-select">
+                <select name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl02$ctl00$DropDownListOffsetYear" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl02_0_ctl00_0_DropDownListOffsetYear_0" tabindex="5" class="customselect extend--medium">
+			<option selected="selected" value="0">Alle handler</option>
+			<option value="1">Sidste &#229;r</option>
+			<option value="2">Sidste to &#229;r</option>
+			<option value="3">Sidste tre &#229;r</option>
+			<option value="4">Sidste fire &#229;r</option>
+			<option value="5">Sidste fem &#229;r</option>
+
+		</select>
+            </div>
+            
+            <div class="field submit-search-field">
+            <input type="submit" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl02$ctl00$ButtonSearch" value="Søg" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl02_0_ctl00_0_ButtonSearch_0" tabindex="6" title="Søg" />
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+	</div><div class="block " data-tnt="block10856">
+		
+
+<div class="estate-search-con search-con__block group " data-tab-con="estate">
+    <div class="search-con__primary-fields-con">
+        <div class="search-con__primary-fields group" data-validation="on" data-hook="search-con__primary-fields">
+            
+            <div class="field primary-search-field">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl03$ctl00$TextBoxZipAddressEstate" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl03_0_ctl00_0_TextBoxZipAddressEstate_0" tabindex="1" type="search" data-autosuggest="address" autocomplete="off" data-handlermethod="/api/EstateAutoSuggest/GetSuggestions/" data-validation-rules="isNotEmpty" data-validation-text="Ugyldig adresse" title="Indtast adresse" placeholder="Indtast adresse" />
+                
+                <div data-autosuggest-con="address"></div>
+            </div>
+            
+            <div class="field house-number-search-field disabled">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl03$ctl00$TextBoxHouseNumberEstate" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl03_0_ctl00_0_TextBoxHouseNumberEstate_0" tabindex="2" class=" disabled" type="search" data-autosuggest="housenumber" autocomplete="off" data-validation-rules="isNotEmpty" readonly="true" data-validation-text="Vælg husnr" title="Husnr" placeholder="Husnr" />
+                 
+                <div data-autosuggest-con="housenumber"></div>
+            </div>
+            
+            <div class="field house-floor-search-field disabled">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl03$ctl00$TextBoxFloorDescriptionEstate" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl03_0_ctl00_0_TextBoxFloorDescriptionEstate_0" tabindex="3" class=" disabled" type="search" data-autosuggest="floor" autocomplete="off" readonly="true" data-validation-text="Etage" title="Etage" placeholder="Etage" />
+                 
+                <div data-autosuggest-con="floor"></div>
+            </div>
+            
+            <div class="field submit-search-field">
+                <input type="submit" name="ctl00$ctl00$ContentContentPlaceHolder$NewHeader$repeaterContentData$ctl00$ctl00$ctl00$ctl00$ctl00$ctl03$ctl00$ButtonSearchEstate" value="Søg" id="ContentContentPlaceHolder_NewHeader_repeaterContentData_ctl00_0_ctl00_0_ctl00_0_ctl00_0_ctl03_0_ctl00_0_ButtonSearchEstate_0" tabindex="4" data-hook="estate-search-btn" />
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+	</div></div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+                
+        </div>
+    
+
+    
+    <div class="nav-primary-con__shadow-overlay"></div>
+</div>
+
+    </header>
+    <div class="maincontent" role="main">
+        
+    <div class="case-display">
+
+        <img id="ContentContentPlaceHolder_MainContentPlaceHolder_ImageCaseImage" class="print-image" src="//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size1920x1080.jpg" />
+        <img id="ContentContentPlaceHolder_MainContentPlaceHolder_ImageMap" class="print-image print-map" src="https://maps.google.com/maps/api/staticmap?markers=57.4770737192152,9.79801726142228&amp;format=Png&amp;center=57.4770737192152,9.79801726142228&amp;maptype=ROADMAP&amp;size=640x320&amp;sensor=false&amp;zoom=15" />
+        
+
+<section class="case-top">
+    
+
+
+<div class="top-left full-screen-only watermark">
+    <img src="/globalassets/media/logo/edc-logo-vandmaerke.png" />
+</div>
+
+
+<div class="top-right full-screen-only control-shadow">
+    <ul>
+        
+            <li class="presentation-control--link-item">
+                <div class="presentation-control--contact">
+                    <div class="presentation-control--link">
+                        <a data-layer='{&quot;event&quot;: &quot;sagsvisning_kontaktform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/kontakt-magler/?sagsnr=98401577" data-overlay="" title="Kontakt os">
+                            <span>Kontakt os</span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+        
+       
+        <li>
+            <div class="presentation-control icon" data-js="close-full-screen">
+                <div class="sprite sprite--close sprite--opaque">
+                    <svg class="svg-icon">
+                        <use xlink:href="/Static/Images/svg/CaseDisplay/caseDisplaySprite.svg#close"></use>
+                    </svg>
+                </div>
+            </div>
+        </li>
+
+        <li>
+            <div class="presentation-control presentation-control--magnifier icon" data-js="toggle-aspect-ratio">
+                <div class="sprite sprite--zoom-out minus sprite--opaque">
+                    <svg class="svg-icon">
+                        <use xlink:href="/Static/Images/svg/CaseDisplay/caseDisplaySprite.svg#zoom-out"></use>
+                    </svg>
+                </div>
+                <div class="sprite sprite--zoom-in plus sprite--opaque">
+                    <svg class="svg-icon">
+                        <use xlink:href="/Static/Images/svg/CaseDisplay/caseDisplaySprite.svg#zoom-in"></use>
+                    </svg>
+                </div>
+            </div>
+        </li>
+
+        
+            <li>
+                <div class="presentation-control presentation-control--arrow-down" data-js="toggle-infobox">
+                    <div class="sprite sprite--opaque">
+                        <svg class="svg-icon">
+                            <use xlink:href="/Static/Images/svg/CaseDisplay/caseDisplaySprite.svg#next" />
+                        </svg>
+                    </div>
+                </div> 
+            </li>
+        
+    </ul>
+</div>
+
+
+
+<div class="case-top__cta-infobox show">
+    <div class="case-top__cta-infobox--tabmenu">
+        <ul>
+            <li>
+                <h4 data-js="cta-top__header">Åbent hus med tilmelding</h4>
+            </li>
+            
+                    <li data-openhouse-tab="0" data-headline="Åbent hus med tilmelding">
+                        <div class="date">28</div>
+                        <div class="month">Jul</div>
+                    </li>
+                
+                    <li data-openhouse-tab="1" data-headline="Åbent hus med tilmelding">
+                        <div class="date">11</div>
+                        <div class="month">Aug</div>
+                    </li>
+                
+                    <li data-openhouse-tab="2" data-headline="Åbent hus med tilmelding">
+                        <div class="date">25</div>
+                        <div class="month">Aug</div>
+                    </li>
+                
+        </ul>
+    </div>
+    <div class="case-top__cta-infobox--tabcontent">
+        <ul>
+            
+                    <li data-openhouse-content="0">             
+                                
+                                    <a data-type="signup" data-overlay="" data-layer='{&quot;event&quot;: &quot;sagsvisning_aabenthusform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577&amp;aid=1725bc36-8b75-4796-b664-2a502835659e" title="Tilmeld">
+                                        <div>
+                                            <div class="left--tabcontent">
+                                                <div class="daynumber">28</div>
+                                                <div class="month">Jul</div>
+                                            </div>
+                                            <div class="right--tabcontent">
+                                                <p>Søndag</p>
+                                                <p>Kl. 13:00 - 16:00</p>
+                                                <span class="signup">
+                                                    Tilmeld
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                       
+                           
+                    </li>
+                
+                    <li data-openhouse-content="1">             
+                                
+                                    <a data-type="signup" data-overlay="" data-layer='{&quot;event&quot;: &quot;sagsvisning_aabenthusform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577&amp;aid=315c3ed1-aca6-49f8-bf5d-5e6aee6506a1" title="Tilmeld">
+                                        <div>
+                                            <div class="left--tabcontent">
+                                                <div class="daynumber">11</div>
+                                                <div class="month">Aug</div>
+                                            </div>
+                                            <div class="right--tabcontent">
+                                                <p>Søndag</p>
+                                                <p>Kl. 13:00 - 16:00</p>
+                                                <span class="signup">
+                                                    Tilmeld
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                       
+                           
+                    </li>
+                
+                    <li data-openhouse-content="2">             
+                                
+                                    <a data-type="signup" data-overlay="" data-layer='{&quot;event&quot;: &quot;sagsvisning_aabenthusform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577&amp;aid=b462a3ff-595e-4ff6-80cf-4e720952ef6c" title="Tilmeld">
+                                        <div>
+                                            <div class="left--tabcontent">
+                                                <div class="daynumber">25</div>
+                                                <div class="month">Aug</div>
+                                            </div>
+                                            <div class="right--tabcontent">
+                                                <p>Søndag</p>
+                                                <p>Kl. 13:00 - 16:00</p>
+                                                <span class="signup">
+                                                    Tilmeld
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                       
+                           
+                    </li>
+                
+        </ul>
+
+    </div>
+    <div class="case-top__cta-infobox--listmenu">
+        <ul>
+            
+                <li>
+                    <a data-layer='{&quot;event&quot;: &quot;sagsvisning_fremvisningsform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/bestil-fremvisning/?sagsnr=98401577" data-overlay="" title="Bestil fremvisning">
+                        <span>Bestil fremvisning</span>
+                    </a>
+                </li>
+            
+
+            
+                <li>
+                    <a data-layer='{&quot;event&quot;: &quot;sagsvisning_materialeform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/hent-sagsmateriale/?sagsnr=98401577" data-overlay="" title="Hent salgsopstilling">
+                        <span>Hent salgsopstilling</span>
+                    </a>
+                </li>
+            
+
+            
+                <li>
+                    <a data-layer='{&quot;event&quot;: &quot;sagsvisning_kontaktform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/kontakt-magler/?sagsnr=98401577" data-overlay="" title="Kontakt os">
+                        <span>Kontakt os</span>
+                    </a>
+                </li>
+            
+            
+            
+            <div id="ContentContentPlaceHolder_MainContentPlaceHolder_CasePresentationUserControl_CaseCTABox_CaseCtaBoxOpenHouse_ShareContentBlockRenderer">
+	
+
+<div class="block block--share-content">
+    
+    <span class="block--share-content__label">
+        <span>Del</span>
+    </span>
+    
+    
+    <div class="block--share-content-icons">
+    <span class="block--share-content-icons--left-wrapper">
+    
+    
+                <a class="block--share-content__item block--share-content__item--facebook" data-share-link="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.edc.dk%2falle-boliger%2fhj%c3%b8rring%2f9800%2fklitten-7%2f%3fsagsnr%3d98401577%26cid%3dsagssider_del_paa_facebook_privat" title="Facebook" href="#"> 
+                </a>
+            
+                <a class="block--share-content__item block--share-content__item--linkedin" data-share-link="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.edc.dk%2falle-boliger%2fhj%c3%b8rring%2f9800%2fklitten-7%2f%3fsagsnr%3d98401577%26cid%3dsagssider_del_paa_linkedin_privat" title="LinkedIn" href="#"> 
+                </a>
+            
+                <a class="block--share-content__item block--share-content__item--twitter" data-share-link="https://twitter.com/share?url=https%3a%2f%2fwww.edc.dk%2falle-boliger%2fhj%c3%b8rring%2f9800%2fklitten-7%2f%3fsagsnr%3d98401577%26cid%3dsagssider_del_paa_twitter_privat" title="Twitter" href="#"> 
+                </a>
+            
+        <a class="block--share-content__item block--share-content__item--email" href="https://www.edc.dk/sag/send-til-en-ven/?epiId=10250&amp;sagsnr=98401577" data-overlay="" title="Email"> 
+        </a>    
+    
+      </span>
+    
+    
+        <span class="block--share-content__favorite-wrapper">
+            <a class="block--share-content__item block--share-content__item--favorite " data-loginpopup="https://www.edc.dk/mit-edc/log-ind/?addfavorite=1870809" data-fastcaseid="1870809" data-favorite="" title="Gem bolig i Mit EDC" href="#">
+            </a>
+        </span>
+    
+    </div>
+</div>
+</div>
+        </ul>
+    </div>
+</div>
+
+
+    
+    <div id="case-top__hero-presentation" class="case-top__hero-presentation fade-pager" data-index-first-image="1">
+        
+        <div class="case-top__gallery-splash" data-js="gallery">
+            <h4>
+                <span>Se store billeder m.m.</span>
+            </h4>
+        </div>
+        
+
+        <ul class="presentation-list fade-pager__pages">
+            <li class="fade-pager__page active">
+                <div class="image" itemprop="image" style=""></div>
+            </li>
+        </ul>
+        
+        <div class="pager__btn pager__btn--prev control-shadow" data-js="prev-page">
+        </div>
+        <div class="pager__btn pager__btn--next control-shadow" data-js="next-page">
+        </div>
+        <div class="case-top__view360--btn--wrap">
+            <div class="sprite sprite--360-large sprite--white">
+                <svg class="svg-icon">
+                    <use xlink:href="/Static/Images/svg/CaseDisplay/caseDisplaySprite.svg#360-large"></use>
+                </svg>
+            </div>
+        </div>
+    </div>
+
+    
+            <div class="case-top__case-map">
+         
+
+<script src="/Handlers/MapScriptSetup.ashx?isbusiness=False"></script>
+
+
+<script type="text/javascript">
+	var viamapSettings = {"AccessToken":"eyJkcGZ4IjogImVkYyIsICJwcml2cyI6ICIifQ.OjKB5MZR8%20pl9yaRiArg4UYhKYOKzIvm5U2kO3tka49V%20gKZYX11q1lWZfRsr3xOaUFmEOOhI3lny4YQ2cUb4Q","CenterLatitude":56.2639,"CenterLongitude":9.5018,"ZoomDefault":7.0,"ZoomMinimum":5.0,"ZoomMaximum":17.0,"ClusterGridSizeCases":null,"ClusterStopZoomCases":null,"ClusterGridSizeAgencies":null,"ClusterStopZoomAgencies":null,"ShowAgenciesFromZoomLevel":null,"ZoomDefaultForCaseLargeMap":null};
+</script>
+
+<!-- Stack essential for loading the map -->
+<link href="https://edc.tiles.viamap.net/v1/css/mapbox.css" rel="stylesheet" type="text/css" />
+<link href="https://edc.tiles.viamap.net/v1/css/index.css" rel="stylesheet" type="text/css" />
+<link href="https://edc.tiles.viamap.net/v1/css/mapbox-gl-inspect.css" rel="stylesheet" type="text/css" />
+<link href="https://edc.tiles.viamap.net/v1/css/mapbox-gl-draw.css" rel="stylesheet" type="text/css" />
+<link href="https://edc.tiles.viamap.net/v1/css/mapbox-gl.css" rel="stylesheet" type="text/css" />
+<script src="/Static/Scripts/viamap/js/viamapstrap.js"></script>
+<script src="https://edc.tiles.viamap.net/v1/js/mapbox-gl.js"></script>
+<script src="https://edc.tiles.viamap.net/v1/js/mapbox.js"></script>
+<script src="https://edc.tiles.viamap.net/v1/js/leaflet-hash.js"></script>
+<script src="https://edc.tiles.viamap.net/v1/js/vmd.js"></script>
+<script src="/Static/Scripts/viamap/js/mapbox-gl-inspect.min.js"></script>
+<script src="/Static/Scripts/viamap/js/mapbox-gl-draw.js"></script>
+<script src="/Static/Scripts/viamap/js/turf.min.js"></script>
+<link href="/Static/Scripts/viamap/css/edc.viamap.custom.css" rel="stylesheet" type="text/css" />
+
+
+<div class="viamap_container" data-class="js-caseDisplayPage" data-lat="57.4770737192152" data-long="9.79801726142228" data-agencynumber="" data-showagencynumbers="" data-casetypegroup="0" data-casetype="0">
+
+	<div id="map__spinner--load" class="map__spinner--load">
+		<div class="spinner"></div>
+		<div class="text">Henter data. Vent venligst.</div>
+	</div>
+	<nav id="menu" class="buttons"></nav>
+	<div id="viamap"></div>
+	<div id="map__casewrapperContainer" class="row">
+		<div class="map__casewrapper map__casewrapper--actualtradeprices ">
+			<div class="map__case--navigation">
+				<a href="#" id="map__case--nav--prev"><span class="map__case--nav--link"></span></a>
+				<a href="#" id="map__case--nav--next"><span class="map__case--nav--link"></span></a>
+			</div>
+			<div id="map__case"></div>
+			<div class="map__close">
+				<span class="icon-close"></span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src='/Static/Scripts/viamap/js/edc.viamap.caseview.js'></script>
+
+            
+           </div>
+       
+    <div class="case-top__image-counter hidden"></div>
+
+    <div style="display: none" data-js="json">
+        [{"Id":"dfe4573a-c31f-4092-876f-8d1d39412916","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/5de7e95a-b2db-4a83-ac9d-d2aa9166f73e_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/5de7e95a-b2db-4a83-ac9d-d2aa9166f73e_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ingen beskrivelse)","Type":"blueprint","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/5de7e95a-b2db-4a83-ac9d-d2aa9166f73e_Size687x458.jpg","DesignerVignet":{"Uri":"https://cdn.diakrit.com/product/dfurnish/6470896","Text":{"Fragments":[{"InternalFormat":"\u003cp\u003eIndret boligen\u003cbr /\u003ePrøv vores indretningsdesigner\u003c/p\u003e","ReferencedPermanentLinkIds":[]}],"FragmentParser":{},"ParserMode":0,"IsEmpty":false,"IsReadOnly":true,"IsModified":false},"Option":5}},{"Id":"3cfc377b-8010-4a36-a5eb-e8c4208a2175","LargeImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ejendommen)","Type":"movie","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":3}},{"Id":"3cfc377b-8010-4a36-a5eb-e8c4208a2175","LargeImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ejendommen)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/f156c9f7-24a0-4ab3-9293-d387598d9b69_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":3}},{"Id":"6ea47ea0-1734-4bc3-ad4f-73073fd24782","LargeImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/4b2cfa45-ce90-4161-a935-04b7f461e135_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/4b2cfa45-ce90-4161-a935-04b7f461e135_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ejendommen)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/4b2cfa45-ce90-4161-a935-04b7f461e135_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":3}},{"Id":"0b7842b3-8486-4176-89d4-2b40ee2abbea","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/c24fd2a3-9ef7-4944-b665-a2731ad11bd4_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/c24fd2a3-9ef7-4944-b665-a2731ad11bd4_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Udsigt)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/c24fd2a3-9ef7-4944-b665-a2731ad11bd4_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"c6fafa77-70e7-4fc1-9be9-ab413ee5ae19","LargeImageUrl":"//billeder.edc.dk/edcmedia/2018/09-September/13/58be02cb-3170-410f-bd5d-eb9cbbaa80c9_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2018/09-September/13/58be02cb-3170-410f-bd5d-eb9cbbaa80c9_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Luftfoto)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2018/09-September/13/58be02cb-3170-410f-bd5d-eb9cbbaa80c9_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"693c005b-dc49-46b3-a16e-85f18e34ae12","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/8905721c-4c37-426d-9fd9-32b28002aef7_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/8905721c-4c37-426d-9fd9-32b28002aef7_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Entré)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/8905721c-4c37-426d-9fd9-32b28002aef7_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"b943878c-6b06-4530-822e-1f0f5c4d2ce4","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/ba31a9b5-8cba-498c-95e2-94b7aa8b7faa_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/ba31a9b5-8cba-498c-95e2-94b7aa8b7faa_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Køkken)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/ba31a9b5-8cba-498c-95e2-94b7aa8b7faa_Size687x458.jpg","DesignerVignet":{"Uri":"https://cdn.diakrit.com/product/styling/6470899","Text":{"Fragments":[{"InternalFormat":"\u003cp\u003eDesign dit eget køkken\u003cbr /\u003ePrøv vores køkkendesigner\u003c/p\u003e","ReferencedPermanentLinkIds":[]}],"FragmentParser":{},"ParserMode":0,"IsEmpty":false,"IsReadOnly":true,"IsModified":false},"Option":1}},{"Id":"79fbf5ec-4960-4129-aeb3-14a180d45549","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/bdf7bc93-d6e7-44ae-bd44-1b9b90047123_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/bdf7bc93-d6e7-44ae-bd44-1b9b90047123_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Køkken)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/bdf7bc93-d6e7-44ae-bd44-1b9b90047123_Size687x458.jpg","DesignerVignet":{"Uri":"https://cdn.diakrit.com/product/styling/6470899","Text":{"Fragments":[{"InternalFormat":"\u003cp\u003eDesign dit eget køkken\u003cbr /\u003ePrøv vores køkkendesigner\u003c/p\u003e","ReferencedPermanentLinkIds":[]}],"FragmentParser":{},"ParserMode":0,"IsEmpty":false,"IsReadOnly":true,"IsModified":false},"Option":1}},{"Id":"82558a97-cb2d-4553-9ecd-5856fbb43132","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2e530751-dbd3-421e-af2f-76e718b9f695_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2e530751-dbd3-421e-af2f-76e718b9f695_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Entré)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2e530751-dbd3-421e-af2f-76e718b9f695_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"f0a6f4e3-3efe-4177-9c75-7f7c9fd1ea06","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2020c650-4bd4-4656-904d-ac799c3ab0c2_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2020c650-4bd4-4656-904d-ac799c3ab0c2_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Spisestue)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2020c650-4bd4-4656-904d-ac799c3ab0c2_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"188b33e3-9714-4e51-9342-9d78e3789870","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9ff2e3de-7c9b-42f8-8c4a-7dc832727efd_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9ff2e3de-7c9b-42f8-8c4a-7dc832727efd_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Spisestue)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9ff2e3de-7c9b-42f8-8c4a-7dc832727efd_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"2cb9ccfb-a565-49e1-b05a-8e2c52bc6955","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/36be6718-7308-4899-b389-981d2035777c_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/36be6718-7308-4899-b389-981d2035777c_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Stue)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/36be6718-7308-4899-b389-981d2035777c_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":4}},{"Id":"6ab4556d-3bbf-4fb1-986e-7b7ca6dd8ae6","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9ccdcf2f-95e0-4867-915b-4a7b7c8966ff_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9ccdcf2f-95e0-4867-915b-4a7b7c8966ff_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Stue)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9ccdcf2f-95e0-4867-915b-4a7b7c8966ff_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":4}},{"Id":"33471b21-8fe0-4c3c-b33f-f05cafee5010","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/20b537d6-2865-4d19-93e8-2f7332f8e1f1_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/20b537d6-2865-4d19-93e8-2f7332f8e1f1_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Stue)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/20b537d6-2865-4d19-93e8-2f7332f8e1f1_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":4}},{"Id":"785b7c7a-f168-4ab8-b871-3a19dd2194d0","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/d3d41c3a-1664-4afb-92ba-93420c6a4aa3_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/d3d41c3a-1664-4afb-92ba-93420c6a4aa3_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Stue)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/d3d41c3a-1664-4afb-92ba-93420c6a4aa3_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":4}},{"Id":"2c29de6c-7deb-4fd7-8fe2-d88cd6af0432","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/f027f3e5-c6a8-44dd-a8a8-be14d9da4fc7_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/f027f3e5-c6a8-44dd-a8a8-be14d9da4fc7_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Gang)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/f027f3e5-c6a8-44dd-a8a8-be14d9da4fc7_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"9bc5d2fb-d596-4a26-95f7-8de14f576bef","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9bf8f6e4-2895-4a20-9a46-71f46a59eff0_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9bf8f6e4-2895-4a20-9a46-71f46a59eff0_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Badeværelse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/9bf8f6e4-2895-4a20-9a46-71f46a59eff0_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":2}},{"Id":"2354905e-8b14-44f4-9115-0d961ec716d4","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/d14b05ac-d44e-4d73-985a-4b261ba6ab9b_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/d14b05ac-d44e-4d73-985a-4b261ba6ab9b_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Værelse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/d14b05ac-d44e-4d73-985a-4b261ba6ab9b_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"88b08246-0d45-4aa2-8748-3f2d893c5c4c","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/322c85a9-7c42-4c0a-81c4-b48e511d5dfa_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/322c85a9-7c42-4c0a-81c4-b48e511d5dfa_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Værelse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/322c85a9-7c42-4c0a-81c4-b48e511d5dfa_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"eeac9366-f5ef-439e-8623-1e58cddbe9da","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/b0146d2f-cc11-4e22-9887-05903daf7234_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/b0146d2f-cc11-4e22-9887-05903daf7234_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Soveværelse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/b0146d2f-cc11-4e22-9887-05903daf7234_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"d1c284f0-f957-4e2f-8cff-1b5918215d40","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/568a627e-79a5-4b82-a2f0-0a7cc4a4a82f_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/568a627e-79a5-4b82-a2f0-0a7cc4a4a82f_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Soveværelse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/568a627e-79a5-4b82-a2f0-0a7cc4a4a82f_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"eed749c0-5b8c-4387-b0c3-12fdd8a07719","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/51f92164-2273-4423-8417-626b36814e01_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/51f92164-2273-4423-8417-626b36814e01_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Terrasse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/51f92164-2273-4423-8417-626b36814e01_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"2450b660-2b61-40d0-a1bc-ea54aab61807","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/5fbcc95e-7d8f-4e51-a5b5-a8d3f1a76bf8_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/5fbcc95e-7d8f-4e51-a5b5-a8d3f1a76bf8_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Terrasse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/5fbcc95e-7d8f-4e51-a5b5-a8d3f1a76bf8_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"065f4d21-7c73-4565-9497-40558aa3d6fd","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2f9c0934-48ea-4293-a742-228dbc2ac75c_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2f9c0934-48ea-4293-a742-228dbc2ac75c_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Udendørsareal)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/2f9c0934-48ea-4293-a742-228dbc2ac75c_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"73e90ca1-292b-49f5-82bd-a537631e5ad4","LargeImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/39257e29-e9c5-4a1f-bfbb-e257af9a7662_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/39257e29-e9c5-4a1f-bfbb-e257af9a7662_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ejendommen)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2017/11-November/27/39257e29-e9c5-4a1f-bfbb-e257af9a7662_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":3}},{"Id":"8c9fb776-8c67-4b85-9931-e0d9eb4a23cd","LargeImageUrl":"//billeder.edc.dk/edcmedia/2018/09-September/13/2e8dccc3-78c2-4e40-aec3-ca931c7b039d_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2018/09-September/13/2e8dccc3-78c2-4e40-aec3-ca931c7b039d_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ingen beskrivelse)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2018/09-September/13/2e8dccc3-78c2-4e40-aec3-ca931c7b039d_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":{"Fragments":[],"FragmentParser":{},"ParserMode":1,"IsEmpty":true,"IsReadOnly":false,"IsModified":false},"Option":0}},{"Id":"53fc8edc-3749-41ad-b050-26e916e201d1","LargeImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/74872a0c-8ba6-4ffc-b730-972f2116af90_Size1920x1080.jpg","ThumbnailUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/74872a0c-8ba6-4ffc-b730-972f2116af90_Size210x140.jpg","Description":"Klitten 7, Lønstrup, 9800 Hjørring (Ejendommen)","Type":"picture","LowResTabletImageUrl":"//billeder.edc.dk/edcmedia/2019/06-June/21/74872a0c-8ba6-4ffc-b730-972f2116af90_Size687x458.jpg","DesignerVignet":{"Uri":null,"Text":null,"Option":3}}]
+    </div>
+    <div class="top-overlay">
+        <div class="inner">
+            
+
+<!-- Case info Privat start -->
+<div class="caseInfo">
+    
+    
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" class="offers">
+        
+            <span class="case-splash--noncolor"></span>
+        
+        
+        
+        
+        
+        
+
+        <div itemprop="name" class="name">
+            <h1>Klitten 7, Lønstrup, <span class="zip-city">9800 Hjørring</span></h1>
+        </div>
+    </div>
+    <div class="priceDetails" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <div itemprop="price" class="price">
+            <meta itemprop="priceCurrency" content="DKK" />
+            <link itemprop="businessFunction" href="http://purl.org/goodrelations/v1#Sell" class="price" />
+            2.695.000 kr.<span class="visuallyhidden">dkk</span>
+        </div>
+        
+        <div class="single-facts">
+            <span>Fritidshus</span>
+            <span>5 rum/86 m&#178;</span>
+            
+            
+            <span class="marked-hot" itemprop="interactionCount">Set 184 gange de seneste 24 timer</span>
+        </div>
+        
+    </div>
+</div>
+
+<!-- Case info end -->
+
+            
+            
+        </div>
+    </div>
+    <div class="bottom-bar">
+
+        
+
+<!-- Case Overview slider -->
+<section class="case-gallery">
+    <div class="gallery_menu">
+
+        
+        <a href="#" class="gallery_menu__map-change">Kort/Satellit</a>
+
+        <div class="menu_icons">
+            <ul>    
+                 
+                <li>
+                    <div class="cta-icon cta-icon--small" data-js="photo"></div>
+                </li>
+                
+                <li>
+                    <div class="cta-icon cta-icon--small" data-js="blueprint"></div>
+                </li>
+                
+                <li>
+                    <div class="cta-icon" data-js="map"></div>
+                </li>
+                
+                <li>
+                    <div class="cta-icon cta-icon--small" data-js="toggle-show"></div>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+    <div class="gallery_container">
+        <div class="prev">
+            <span class="icon">
+                <img src="/Static/Images/svg/arrows.svg" alt="Previous" data-png-fallback="/Static/Images/svg/arrows.png" />
+            </span>
+        </div>
+        <div class="next">
+            <span class="icon">
+                <img src="/Static/Images/svg/arrows.svg" alt="Next" data-png-fallback="/Static/Images/svg/arrows.png" />
+            </span>
+        </div>
+        <div class="content">
+            <div class="grid-column-carousel">
+            <ul class="thumbnail-list grid-column-carousel__list">
+              
+            </ul>
+            <div class="grid-column-carousel__page-indicators">
+            <ul>
+                <li class="dot active"></li>
+            </ul>
+            </div>
+        </div>
+        </div>
+        
+    </div>
+</section>
+<!-- Case Overview slider end -->
+
+    </div>
+
+    <!-- Case images end -->
+
+
+    <!-- Case movie start -->
+    
+        <div id="casecontainer__movie" class="casecontainer__movie" data-case-video-width="" data-case-video-height="" data-case-video-src="" data-casenumber="98401577" data-casesold="False" data-materiallabel="Hent salgsopstilling" data-presentationlabel="Bestil fremvisning" data-sharelabel="Del på Facebook" data-contactlabel="Kontakt mægler">
+            <div id="player" class="casecontainer__movieimage"></div>
+        </div>
+    
+    
+
+
+    <!-- Case images end -->
+
+</section>
+
+
+
+        
+
+<script>
+    function runContactOverlayScript() {
+        
+    }
+</script>
+
+<div class="case-top__contact-overlay">
+    <div class="col-12">
+        <div class="col-6">
+            <div>
+                <h3 class="case-top__overlay--header">Kontakt os vedr. Klitten 7, Lønstrup</h3>
+            </div>
+            <div class="case-top__overlay--btnWrap">
+                <div>
+                    <a href="https://www.edc.dk/sag/kontakt-magler/?sagsnr=98401577" data-overlay="" title="Kontakt os" class="btn--alt--blue">
+                        <span>Kontakt os</span>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.edc.dk/sag/hent-sagsmateriale/?sagsnr=98401577" data-overlay="" title="Hent salgsopstilling" class="btn--alt--blue">
+                        <span>Hent salgsopstilling</span>
+                    </a>
+                </div>
+            </div>
+            <div class="case-top__overlay--realtorinfo">
+                <div>
+                    <h3 class="agency--realtor">Ruben Dietz </h3>
+                    <p>Afdelingsleder, Ejendomsmægler, Køberrådgiver, MDE</p>
+                    <p itemprop="email"><a href="mailto:rd@edc.dk">rd@edc.dk</a></p>
+                    <p>Mobil: 28 56 48 99</p>
+                    <h3 class="agency--name">EDC Danebo, Lønstrup </h3>
+                    <p>Strandvejen 66, 9800 Hjørring</p>
+                    <a class="link" href="http://www.edc.dk/loenstrup/">
+                        <span>Besøg lokal mægler</span>
+                    </a>
+                </div>
+                <div class="agency--realtor--imgcontainer">
+                    <img src="//billeder.edc.dk/edcmedia/2019/03-march/18/0ef5e868-33f4-4ddb-a2de-1f9ca0bdb42f_size220x293.jpg" />
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="contact-overlay-control icon" data-js="close-contact-overlay">
+                <div class="sprite sprite--close">
+                    <svg class="svg-icon">
+                        <use xlink:href="/Static/Images/svg/CaseDisplay/caseDisplaySprite.svg#close"></use>
+                    </svg>
+                </div>
+            </div>
+            <div class="case-top__overlay--loaninfo">
+                
+                    <div class="case-top__overlay--openhouse">
+                        <h3 class="case-top__overlay--header">
+                            <span>Kom til åbent hus</span>
+                        </h3>
+                        
+                                <div class="case-top__overlay--openhousedetails">
+                                    <div data-js='openHouse'>Søn. 28. juli. 13:00-16:00</div>
+                                    <div>
+                                        <a href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577&amp;aid=1725bc36-8b75-4796-b664-2a502835659e" data-overlay="" class='' title="Tilmeld">
+                                            Tilmeld
+                                        </a>
+                                        <span class='hidden'>
+                                            Frit fremmøde
+                                        </span>
+                                    </div>
+                                </div>
+                            
+                                <div class="case-top__overlay--openhousedetails">
+                                    <div data-js='openHouse'>Søn. 11. august. 13:00-16:00</div>
+                                    <div>
+                                        <a href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577&amp;aid=315c3ed1-aca6-49f8-bf5d-5e6aee6506a1" data-overlay="" class='' title="Tilmeld">
+                                            Tilmeld
+                                        </a>
+                                        <span class='hidden'>
+                                            Frit fremmøde
+                                        </span>
+                                    </div>
+                                </div>
+                            
+                                <div class="case-top__overlay--openhousedetails">
+                                    <div data-js='openHouse'>Søn. 25. august. 13:00-16:00</div>
+                                    <div>
+                                        <a href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577&amp;aid=b462a3ff-595e-4ff6-80cf-4e720952ef6c" data-overlay="" class='' title="Tilmeld">
+                                            Tilmeld
+                                        </a>
+                                        <span class='hidden'>
+                                            Frit fremmøde
+                                        </span>
+                                    </div>
+                                </div>
+                            
+                        <a href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577" data-overlay="" title="Se alle">
+                            Se alle
+                        </a>
+                        
+                    </div>
+                
+                
+                
+                    <div class="case-top__overlay--fipa">
+                        <div>
+	
+    <div>
+        <h3 class="fipa-media-item-hd">Hvad koster det at låne?</h3>
+    </div>
+    <div>
+        <p class="fipa-media-item-text">Få overblik over de mange lånetyper. Book møde med en rådgiver eller kreditforening</p>
+    </div>
+    <div class="fipa-media-item-logo-wrap">
+        
+    </div>
+    <div class="fipa-media-item-btnwrap">
+        <a href="/lan-og-forsikring/laan/?cid=p_gp_fipa_galleri" title="Bestil et gratis møde" class="btn--alt--blue">   
+            <span class="fipa-media-item-text">Bestil et gratis møde</span>
+        </a>
+    </div>                    
+ 
+</div>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div class="page-scroll-over">
+
+            <div class="main-content">
+                
+
+<section class="case-facts case-display__section">
+    <div class="row case-facts__header">
+        <div class="col-8 case-facts__header-col">
+            <h2>Fritidshus</h2>
+        </div>
+        <div class='col-4 case-facts__header-col'>
+            <h2>Pris</h2>
+            <h2 class="price">2.695.000 kr. </h2>
+        </div>
+    </div>
+
+    <div class="row" itemprop="review">
+        <div class="col-4 case-facts__fact-col">
+            
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Sagsnr.</p>
+                        <p class="value" data-qa="Sagsnr.">98401577</p>
+                    </div>
+                
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Boligareal</p>
+                        <p class="value" data-qa="Boligareal">86 m&#178;</p>
+                    </div>
+                
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Grundareal</p>
+                        <p class="value" data-qa="Grundareal">1.476 m&#178;</p>
+                    </div>
+                
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Rum/værelser</p>
+                        <p class="value" data-qa="Rum/værelser">5/4</p>
+                    </div>
+                
+        </div>
+        <div class="col-4 case-facts__fact-col">
+            
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Antal plan</p>
+                        <p class="value" data-qa="Antal plan">1</p>
+                    </div>
+                
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Byggeår</p>
+                        <p class="value" data-qa="Byggeår">1979</p>
+                    </div>
+                
+                    <div class="case-facts__fact cf case-facts__two-col">
+                        <p class="info">Ombygget</p>
+                        <p class="value" data-qa="Ombygget">2005</p>
+                    </div>
+                
+        </div>
+        <div class="col-4 case-facts__fact-col">
+            
+                    
+                        <div class="case-facts__fact cf case-facts__two-col">
+                            
+                                <p class="info">Ejerudgifter pr. md.</p>
+                            
+                            <p class="value" data-qa="Ejerudgifter pr. md.">
+                                
+                                    <span>1.984 kr.</span>
+                                
+                            </p>
+                        </div>
+                    
+                
+                    
+                        <div class="case-facts__fact cf case-facts__two-col">
+                            
+                                <p class="info">Pris/m²</p>
+                            
+                            <p class="value" data-qa="Pris/m²">
+                                
+                                    <span>31.337 kr.</span>
+                                
+                            </p>
+                        </div>
+                    
+                
+                    
+                        <div class="case-facts__fact cf case-facts__two-col">
+                            
+                                <p class="info">Liggetid</p>
+                            
+                            <p class="value" data-qa="Liggetid">
+                                
+                                    <span>557 dage</span>
+                                
+                            </p>
+                        </div>
+                    
+                
+                    
+                        <div class="case-facts__fact cf case-facts__two-col">
+                            
+                                <p class="info">Prisudvikling</p>
+                            
+                            <p class="value" data-qa="Prisudvikling">
+                                
+                                    <img class="price-arrow down" src="/Static/Images/svg/arrow.svg" data-png-fallback="/Static/Images/svg/arrow.png" />
+                                
+                                    <span>-29%</span>
+                                
+                                    <a data-js="price-dev-expand-toggle">
+                                        Vis historik
+                                    </a>
+                                
+                            </p>
+                        </div>
+                    
+                
+
+            
+        </div>
+    </div>
+
+    <!-- PRIS UDVIKLING - Skal senere flyttes til Erhverv -->
+    <div class="row case-facts__pricemovement" style="display: none;">
+
+        <div class="row case-facts__header price">
+            <div class="col-12">
+                <div class="col-8">
+                    <h2>Prisudvikling</h2>
+                    
+                </div>
+                <div class="col-4 close">
+                    <a data-js="price-dev-expand-toggle">Luk</a>
+                </div>
+            </div>
+        </div>
+        
+            <div class="row pm">
+                <div class="col-12">
+                    
+                            <div class="col-4 case-facts__fact">
+                                <p class="info">
+                                    Startdato
+                                    
+                                    06-01-2018
+                                </p>
+                                <h2 class="price">Pris 3.795.000 kr. </h2>
+
+                                
+                            </div>
+                        
+                            <div class="col-4 case-facts__fact">
+                                <p class="info">
+                                    
+                                    Prisændring
+                                    11-01-2019
+                                </p>
+                                <h2 class="price">Pris 2.945.000 kr. </h2>
+
+                                
+                                    <img class="price-arrow down" src="/Static/Images/svg/arrow.svg" data-png-fallback="/Static/Images/svg/arrow.png" />
+                                
+                            </div>
+                        
+                            <div class="col-4 case-facts__fact">
+                                <p class="info">
+                                    
+                                    Prisændring
+                                    22-06-2019
+                                </p>
+                                <h2 class="price">Pris 2.695.000 kr. </h2>
+
+                                
+                                    <img class="price-arrow down" src="/Static/Images/svg/arrow.svg" data-png-fallback="/Static/Images/svg/arrow.png" />
+                                
+                            </div>
+                        
+                </div>
+            </div>
+        
+        
+        <div class="row pm">
+            <div class="col-12">
+                <div class="case-facts__fact">
+                    <a href="https://www.edc.dk/salgspriser/hjørring/9800/klitten/" target="_blank">Se andre salgspriser på Klitten </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- PRIS UDVIKLING SLUT -->
+    
+        <div class="row case-facts__header ">
+            <a id="ContentContentPlaceHolder_MainContentPlaceHolder_CaseFactsPrivateUserControl_HyperLinkFipaLinkButton" class="case-facts__header-link" href="/lan-og-forsikring/laan/?cid=p_op_fipa_ecotxt" target="_self">Bliv kontaktet og få et lånetilbud</a>
+        </div>
+    
+</section>
+
+                
+<section class="case-facts case-display__section sendprice">
+    <div class="sendprice__con row">
+            <label class="sendprice__label">
+                <span>Giv et uforpligtende bud på boligen</span>
+            </label>
+            <div class="sendprice__text">
+                <input class="text-input--small intmask" type="tel" placeholder="Indtast bud" />
+                <a href="https://www.edc.dk/sag/send-din-pris/?sagsnr=98401577" data-overlay="" class="btn--alt--blue sendprice__submit" type="submit" title="Send bud">
+                    <span>Send bud</span>
+                </a>    
+            </div>
+        </div>
+    </section>
+
+                <section>
+                    
+<div class="ad case-banner">
+    <div class="row">
+        
+        
+            <div class="ad-unit-nord" id="EAS_fif_61634" data-reload="True" data-emediatecuid="13889" data-emediateord="61634">
+            </div>
+            <div class="ad__controls-fullwidth">
+                <div class="ad__textwrap">
+                    <p class="add__text">Annonce</p>        
+                </div>
+                <div class="ad__iconreloadwrap">
+                    <a href="#" class="icon-reload " data-banner-reload="" title="Indlæs næste banner"></a>                    
+                </div>
+                
+            </div>
+        
+
+        
+    </div>
+</div>
+
+                </section>
+
+
+                
+
+<section class="case-display__section">
+    <div class="case-description case-section row">
+        <div class="col-8">
+            <div class="social-share">
+                <div class="block--share-content--narrow"><div class="block full" data-tnt="block20213">
+	
+
+<div class="block block--share-content">
+    
+    <span class="block--share-content__label">
+        <span>Del</span>
+    </span>
+    
+    
+    <div class="block--share-content-icons">
+    <span class="block--share-content-icons--left-wrapper">
+    
+    
+                <a class="block--share-content__item block--share-content__item--facebook" data-share-link="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.edc.dk%2falle-boliger%2fhj%c3%b8rring%2f9800%2fklitten-7%2f%3fsagsnr%3d98401577%26cid%3dsagssider_del_paa_facebook_privat" title="Facebook" href="#"> 
+                </a>
+            
+                <a class="block--share-content__item block--share-content__item--linkedin" data-share-link="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.edc.dk%2falle-boliger%2fhj%c3%b8rring%2f9800%2fklitten-7%2f%3fsagsnr%3d98401577%26cid%3dsagssider_del_paa_linkedin_privat" title="LinkedIn" href="#"> 
+                </a>
+            
+                <a class="block--share-content__item block--share-content__item--twitter" data-share-link="https://twitter.com/share?url=https%3a%2f%2fwww.edc.dk%2falle-boliger%2fhj%c3%b8rring%2f9800%2fklitten-7%2f%3fsagsnr%3d98401577%26cid%3dsagssider_del_paa_twitter_privat" title="Twitter" href="#"> 
+                </a>
+            
+        <a class="block--share-content__item block--share-content__item--email" href="https://www.edc.dk/sag/send-til-en-ven/?epiId=10250&amp;sagsnr=98401577" data-overlay="" title="Email"> 
+        </a>    
+    
+      </span>
+    
+    
+    </div>
+</div>
+</div></div>
+            </div>
+            <div itemprop="description">
+                <h1>HAVUDSIGT OG HOVEGADE, lækkert sommerhus med fantastisk beliggenhed!</h1>
+                <div class='description' data-js="expand">
+                    <p>Man må føle sig helt usandsynlig heldig, når man vågner her; med et fantastisk udsyn til himmel og hav og med Lønstrup by i baghaven. Sommerhuset på 86 kvadratmeter er placeret på en 1476 kvadratmeter stor kuperet klitgrund i første række ud mod havet og på en egn, der er kendt for sin helt unikke atmosfære. Lønstrup by er kunsthåndværkernes hjemstavn, og det ses! Hovedgaden bærer smukt præg af al den virkelyst, der er lige her, og stemningen er både levende og hyggelig. Sommerhusets velholdte kvadratmeter fordeler sig på et dejligt køkkenalrum med Blum-elementer og stue med brændeovn og et dejligt lysindfald, der skabes af stort vinduesparti ud mod havet, badeværelse, tre dejlige værelser og et praktisk ”pulterkammer”-værelse, som kan rumme både strandfangst, fodbolde, adskillige brætspil og flere års minder. Huset har en dejlig lys æstetik og en skøn genkendelig sommerhusatmosfære, der betyder, at man hurtigt føler sig tilpas. Her er skønne terrasseområder på flere sider af huset – en af dem overdækket – 150 meter ned til hovedgaden, der ender ved vandkanten og kun 75 meter til havet og en dukkert i en særlig solnedgang. <br /><br />Garage bygget ind i klitterne.</p>
+                    
+                    
+                        <div itemprop="employee" itemscope="" itemtype="http://schema.org/Person">
+                            <strong>
+                                <span CustomTag="b">Ansvarlig mægler</span>
+                            </strong>
+                            <p itemprop="name">Peter Nissen,Afdelingsleder, Ejendomsmægler, MDE</p>
+                        </div>
+                    
+                    
+                </div>
+            </div>
+            <div class="sprite sprite--dobble-arrow sprite--expand sprite--opaque" data-js="expand-toggle" data-description="">
+                <img src="/Static/Images/svg/CaseDisplay/icon_dualarrow_down_003366.png" />
+            </div>
+        </div>
+        <div class="col-4">
+            
+<div class="ad">
+    
+    
+    
+    
+        <script src="https://images.passendo.com/webtag/3134" type="text/javascript"></script>
+    
+
+    
+</div>
+
+<div class="ad">
+    
+    
+    
+    
+        <script src="https://images.passendo.com/webtag/3135" type="text/javascript"></script>
+    
+
+    
+</div>
+
+
+
+            
+            
+            
+        </div>
+    </div>
+    
+</section>
+
+                
+                
+<section class="case-display__section case-contact">
+    <div class="contact-realtor row">
+        <h3 class="contact-realtor__headerTitle">Kontakt os om Klitten 7, Lønstrup</h3>
+        <div class="contact-realtor__contactFormDiv">
+            <div class="col-6 contact-realtor__contactFormRows">
+                <input type="hidden" id="casenumber" name="casenumber" value="98401577" />
+                <input type="hidden" id="casetype" name="casetype" value="False" />
+                <div class="rowinput">
+                    <input type="text" id="customername" name="customername" class="cust" value="" placeholder="Dit navn" title="Dit navn" />
+                    <div class="formerror__icon"><span class="hidden">Indtast for- og efternavn</span></div>
+                </div>
+                <div class="rowinput">
+                    <input type="email" id="customeremail" name="customeremail" value="" placeholder="Din e-mail" title="Din e-mail" />
+                    <div class="formerror__icon"><span class="hidden">Indtast gyldig Email</span></div>
+                </div>
+                <div class="rowinput">
+                    <input type="text" id="customertel" name="customertel" value="" placeholder="Dit telefonnummer" title="Dit telefonnummer" />
+                    <div class="formerror__icon"><span class="hidden">Telefon/mobilnummer skal udfyldes korrekt</span></div>
+                </div>
+                <div class="rowinput">
+                    <textarea id="cmt" name="cmt" placeholder="Besked">Jeg ønsker mere information om Klitten 7, Lønstrup, 9800 Hjørring</textarea>
+                    <div class="formerror__icon"><span class="hidden">Tekstfeltet skal udfyldes</span></div>
+                </div>
+                <div class="contactBottom" data-pageid="10250">
+                    <div class="contactBottom-container--left">
+                    <input type="checkbox" id="chknewsletter" name="chknewsletter" />
+                    <span>Tilmeld dig vores nyhedsbrev*</span>
+                    </div>
+                    <div class="contactBottom-container--right">
+                        <div class="submitContactBtn btn--light" data-loader="circle" data-js="page-contact">
+                            <span class="sendmsg">Send besked</span>
+                            <div class="spinner__con">
+                                <div class="spinner--circle"></div>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+                <div class="rowinput disclaimer">
+                    <p>*Jeg giver samtykke til, at EDC-gruppen må anvende mine oplysninger til at kontakte mig med nyheder, informationer, tilbud og markedsføring af ydelser inden for ejendomsrelaterede områder via elektronisk post, herunder e-mail og sms, telefon eller brev. EDC-gruppen videregiver ikke mine oplysninger til tredjemand, og samtykket kan altid tilbagekaldes via e-mail til&nbsp;<a title="Send mail til edc@edc.dk" href="mailto:edc@edc.dk">edc@edc.dk</a>.&nbsp;</p>
+                    
+                        <a class="disclaimer__trigger" href="https://www.edc.dk/kontakttilladelse/Udvidet-permissiontekst/" data-overlay="" data-popup-overlay="">Læs mere</a>
+                    
+                </div>
+            </div>
+            <div class="col-6 contact-realtor__confirmationDiv" style='display:none;'>
+                <div>
+                    <h2>
+                        <span>Mange tak for din henvendelse</span>
+                    </h2>
+                    <p>
+                        <span>Du vil blive kontaktet af en EDC-mægler</span>
+                    </p>
+                </div>
+                
+                <div class="contactReceitNotSubscribed">
+                    <h2>
+                        <span>Modtag nyheder fra EDC</span>
+                    </h2>
+                    <p>
+                        <span>Hold dig orienteret om de nyeste boliger til salg og udleje og bliv opdateret om tendenserne på markedet.</span>
+                    </p>
+                    <div class="serviceBtns">
+                        <a class="newsletterBtn btn--light" data-newsletter-id="page-newsletter">Tilmeld nyheder</a>
+                        <p class="subscribeConfirmation hidden">
+                            <span>Tak for din tilmelding til vores nyhedsbrev</span>
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="contactReceitSubscribed">
+                    <h2><span>Få et Salgstjek</span></h2>
+                    <p><span>Få et gratis Salgstjek af din bolig</span></p>
+
+                    <div class="serviceBtns">
+                        <a class="btn--light" href="/boligsalg/bestil-et-gratis-salgstjek/">
+                            <span>Bestil Salgstjek</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 contact-realtor__infoBox">
+                
+                    <div class="realtorInfo" itemtype="http://schema.org/RealEstateAgent">
+                        <div>
+                            <h3 class="agencyName" itemprop="name">EDC Danebo, Lønstrup </h3>
+                            <p itemprop="address">Strandvejen 66, 9800 Hjørring</p>
+                            <p itemprop="telephone">Telefon: 96 23 11 10</p>
+                            <div class="employee" itemprop="employee" itemtype="http://schema.org/Person">
+                                <h3 itemprop="name">Ruben Dietz </h3>
+                                <p itemprop="jobTitle">Afdelingsleder, Ejendomsmægler, Køberrådgiver, MDE</p>
+                                <p itemprop="email"> <a href="mailto:rd@edc.dk">rd@edc.dk</a></p>
+                                
+                                    <p itemprop="telephone">Mobil: 28 56 48 99</p>
+                                
+                                    <p itemprop="telephone">Telefon: 96 23 11 10</p>
+                                
+                            </div>
+                            <a itemprop="url" href="http://www.edc.dk/loenstrup/" title="Besøg lokal mægler">Besøg lokal mægler</a>
+                        </div>
+                        <div class="realtor--imgcontainer">
+                            <img src="//billeder.edc.dk/edcmedia/2019/03-march/18/0ef5e868-33f4-4ddb-a2de-1f9ca0bdb42f_size220x293.jpg" />
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    
+                    <div class="serviceBtns">
+                        
+                            <a class="btn--light" href="/boligsalg/bestil-et-gratis-salgstjek/">
+                                <span>Bestil gratis salgsvurdering</span>
+                            </a>
+                        
+                            <a class="btn--light" href="/boligkoeb/koeberkartotek/">
+                                <span>Tilmeld dig vores køberkartotek</span>
+                            </a>
+                        
+                    </div>
+                    
+                
+                  
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+                
+<section class="case-finance case-display__section">
+        <div class="standard-finance row">
+            <div class="standard-finance__wrap">
+                <div class="col-6 economy">
+                    
+                </div>
+                <div class="col-6 fipa-case">
+	
+                                                                     
+<div class="fipa-casepartner-top">
+    <h3 class="fipa-casepartner-header">Har du brug for rådgivning?</h3>
+    <p class="fipa-casepartner-teaser">Som kunde hos EDC tilbydes du hjælp af en bank eller kreditforening, når du skal vælge blandt de mange lånemuligheder til din drømmebolig. Få friske øjne på din boligøkonomi</p>                 
+    <p class="fipa-casepartner-bodyheader"></p><ul class="ticklist">
+<li>Få afklaret, hvad du kan købe bolig for</li>
+<li>Få rådgivning om valg af låntype</li>
+<li>Få et lånetilbud til en konkret bolig</li>
+</ul>    
+</div>
+
+<div class="fipa-casepartner-footer">
+    <div class="fipa-casepartner-img">
+                
+    </div>
+    <div class="fipa-casepartner-button">
+        <a href="/lan-og-forsikring/laan/?cid=p_gp_fipa_txtfinans" title="Bestil møde">Bestil møde</a>
+    </div>
+</div>
+
+</div>
+            </div>
+            <div id="push">
+                <a href="https://www.totalkredit.dk/" target="_blank" class="calc-cooperation">I samarbejde med: <img src="/Static/Images/totalkredit-logo.jpg" /></a>
+            </div>
+        </div>   
+    </section>
+
+
+                
+<section class="case-designer-section">
+    <div class="case-designer cf">
+        <div class="case-designer__img" style="background-image: url(&#39;/globalassets/media/indholdsbilleder/960x350/960x350-boligdesigner-foer.jpg&#39;);"></div>
+        <div class="case-designer__img" style="background-image: url(&#39;/globalassets/media/indholdsbilleder/960x350/960x350-boligdesigner-efter.jpg&#39;);"></div>
+        <a class="case-designer__cta" href="https://www.edc.dk/sag/indretning-koekken/?sagsnr=98401577&amp;iframeurl=https://cdn.diakrit.com/product/styling/6470899&amp;iframeurl2=https://cdn.diakrit.com/product/dfurnish/6470896" data-overlay="" data-attr-width="950">
+            <div class="img graphic-container">
+                <img src="/Static/Images/svg/design_icon.svg" data-png-fallback="/Static/Images/svg/design_icon.png" />
+            </div>
+            <span class="title">Se mulighederne</span>
+            <span class="text">Prøv vores boligdesigner og giv boligen dit eget præg.</span>
+            <span class="btn button">Start her</span>
+        </a>
+    </div>
+</section>
+
+
+                
+<section class="case-display__section case-municipal-facts">
+    <div class="municipal-facts row">
+    <h3 class="municipal-facts__title"> Fakta om Hjørring kommune
+        
+         (64.665
+        indbyggere
+        )
+        
+        </h3>
+    <div>
+        <div class="col-3">
+            <div class="content-box fact">
+                <h4 class="fact__header">Kommuneskat</h4>
+                <div class="fact__graphic-container graphic-container">
+                    <img src="/Static/Images/svg/kommuneskat_icon.svg" data-png-fallback="/Static/Images/svg/kommuneskat_icon.png" />
+                </div>
+                
+                <span class="fact__value">25,9 %</span>
+                
+                <div class="fact__value-comparison">
+                    <p>Landsgennemsnit</p>
+                    <strong>25,3 %</strong>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="content-box fact">
+                <h4 class="fact__header">Grundskyldspromille</h4>
+                <div class="fact__graphic-container graphic-container">
+                    <img src="/Static/Images/svg/grundskyldspromille_icon.svg" data-png-fallback="/Static/Images/svg/grundskyldspromille_icon.png" />
+                </div>
+                
+                <span class="fact__value">34,000</span>
+                
+                <div class="fact__value-comparison">
+                    <p>Landsgennemsnit</p>
+                    <strong>26,173</strong>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="content-box fact">
+                <h4 class="fact__header">Pasningstakster</h4>
+                <div class="fact__info-graphic">
+                    <div class="graphic-container">
+                        <img src="/Static/Images/svg/vuggestue_icon.svg" data-png-fallback="/Static/Images/svg/vuggestue_icon.png" />
+                    </div>
+                    
+                    <div class="fact__info-graphic__text">
+                        <p>Vuggestue 0-2 år</p>
+                        
+                        <strong>2.646 kr./md.</strong>
+                        
+                    </div>
+                </div>
+                <div class="fact__info-graphic">
+                    <div class="graphic-container">
+                        <img src="/Static/Images/svg/dagpleje_icon.svg" data-png-fallback="/Static/Images/svg/dagpleje_icon.png" />
+                    </div>
+
+                    <div class="fact__info-graphic__text">
+                        <p>Dagpleje 0-2 år</p>
+                        
+                        <strong>2.532 kr./md.</strong>
+                        
+                    </div>
+                </div>
+                <div class="fact__info-graphic">
+                    <div class="graphic-container">
+                        <img src="/Static/Images/svg/boernehave_icon.svg" data-png-fallback="/Static/Images/svg/boernehave_icon.png" />
+                    </div>
+
+                    <div class="fact__info-graphic__text">
+                        <p>
+                            Børnehave 3-5 år
+                        </p>
+                        
+                        <strong>1.639 kr./md.</strong>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="content-box fact">
+                <h4 class="fact__header">Antal folkeskoler</h4>
+                <div class="fact__graphic-container graphic-container">
+                    <img src="/Static/Images/svg/antalfolkeskoler_icon.svg" data-png-fallback="/Static/Images/svg/antalfolkeskoler_icon.png" />
+                </div>
+                
+                <span class="fact__value">7</span>
+                
+                <div class="fact__value-comparison">
+                    <p>
+                        Gns. klassekvotient
+                    </p>
+                    
+                    <strong>22,2</strong>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+                
+                <div><div class="block full" data-tnt="block10286">
+	
+<section class="similar-cases" data-isoldcasepage="false" data-caseid="98401577" data-estateid="" data-municipalid="" data-tradetype="" data-estatetype="" data-blockid="10286" data-similarcaseoptions="2">
+    
+</section>
+
+</div><div class="block full" data-tnt="block10287">
+	
+<section class="similar-cases" data-isoldcasepage="false" data-caseid="98401577" data-estateid="" data-municipalid="" data-tradetype="" data-estatetype="" data-blockid="10287" data-similarcaseoptions="0">
+    
+</section>
+
+</div><div class="block full" data-tnt="block10285">
+	
+<section class="similar-cases" data-isoldcasepage="false" data-caseid="98401577" data-estateid="" data-municipalid="" data-tradetype="" data-estatetype="" data-blockid="10285" data-similarcaseoptions="1">
+    
+</section>
+
+</div></div>
+
+                <div id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign">
+	
+
+<div class="campaign-popup-small">
+    <span>Bestil et gratis Salgstjek og vind flyttehjælp - klik her!</span>
+</div>
+
+<div class="campaign__block campaign-popup campaign-popup-large" data-isbusiness="false" data-campaignblockid="0" data-campaignconfigurationpageid="29635" data-campaignruleset="0" data-lockedtoagencynumber="-1" data-episerverpageid="10250" data-campaignname="2019 Uge 27 - Kampagne " data-campaignid="f9c52ffc-adef-4884-8168-d926c5859e6b" data-iscoopcampaign="0" data-alwaysshowdelaybutton="0" data-open='{&quot;listener&quot;: &quot;True&quot;, &quot;x&quot;: &quot;180&quot;, &quot;delay&quot;: &quot;1000&quot;}' data-close='{&quot;nointeraction&quot;: &quot;60000&quot;, &quot;success&quot;: &quot;20000&quot;}' data-showpopupposition="100">
+    <p id="campaign-popup-close" title="Luk">X</p>
+    <div class="campaign__form">
+        <div class="campaign-popup-hd campaign__splash">
+            <img id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_ImageCampaignSplash" class="campaign-popup-image" src="/globalassets/media/kampagner/Pop-up-banner-paa-sagsvisning/Praemie-st-side-177x177-ALT.png" style="top:-60px; left:-13px" />
+            <div class="campaign-textarea">
+                <h2 class="campaign-popup-headline">Bestil et gratis Salgstjek og vind flyttehjælp</h2>
+                <h3 class="campaign-popup-text">Bestil et gratis Salgstjek inden d. 1. september og deltag automatisk i lodtrækningen om flyttehjælp.</h3>
+            </div>
+        </div>
+        <div class="campaignquestions campaign__questions">
+
+            
+                    <ul class="campaign-fields">
+                
+                    <li class="col-4 ">
+                        <input id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions_512e2a12-f7d2-462e-b8c8-a1c31cacf12e" name="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions" value="512e2a12-f7d2-462e-b8c8-a1c31cacf12e" type="radio" checked="" />
+                        <label for="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions_512e2a12-f7d2-462e-b8c8-a1c31cacf12e">Ja, jeg overvejer at sælge min bolig nu</label>
+                    </li>
+                
+                    <li class="col-4 ">
+                        <input id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions_a8993524-915a-4cb6-868c-615910cbb6f7" name="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions" value="a8993524-915a-4cb6-868c-615910cbb6f7" type="radio" />
+                        <label for="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions_a8993524-915a-4cb6-868c-615910cbb6f7">Jeg overvejer at sælge inden for de næste 2 år</label>
+                    </li>
+                
+                    <li class="col-4 omega">
+                        <input id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions_fe311fc2-2cf9-40b5-b36b-e9a5051ddda1" name="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions" value="fe311fc2-2cf9-40b5-b36b-e9a5051ddda1" type="radio" />
+                        <label for="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_RepeaterQuestions_fe311fc2-2cf9-40b5-b36b-e9a5051ddda1">Ja tak, jeg vil gerne tilmelde mig til EDC's nyhedsbrev</label>
+                    </li>
+                
+                    </ul>
+                
+        </div>
+        <div class="campaign-fields">
+            <div class="campaign-col">
+                <div class="campaign-row requiredstar">
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$MainContentPlaceHolder$ContentRendererCaseViewCampaign$ctl00$TextBoxFullName" type="text" id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_TextBoxFullName" tabindex="1" class="campaign-input campaign__fullname" autocomplete="off" placeholder="Indtast dit fulde navn" />
+                </div>
+                <div class="campaign-row requiredstar">
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$MainContentPlaceHolder$ContentRendererCaseViewCampaign$ctl00$TextBoxEmail" id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_TextBoxEmail" tabindex="2" class="campaign-input campaign__email" type="email" autocomplete="off" placeholder="Indtast din e-mail" />
+                </div>
+            </div>
+            <div class="campaign-col last">
+                <div class="campaign-row requiredstar">
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$MainContentPlaceHolder$ContentRendererCaseViewCampaign$ctl00$TextBoxZipCode" type="text" id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_TextBoxZipCode" tabindex="3" class="campaign-input campaign__zipcode campaign__input_searchsuggestinputzipcode" autocomplete="off" data-input-type="integer" placeholder="Postnr." />
+                </div>
+                <div class="campaign-row requiredstar">
+                    <input name="ctl00$ctl00$ContentContentPlaceHolder$MainContentPlaceHolder$ContentRendererCaseViewCampaign$ctl00$TextBoxMobile" id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_TextBoxMobile" tabindex="4" class="campaign-input campaign__mobile phonemask" type="tel" autocomplete="off" placeholder="Mobil" />
+                </div>
+                <div class="campaign-row btn--container">
+                    <select name="ctl00$ctl00$ContentContentPlaceHolder$MainContentPlaceHolder$ContentRendererCaseViewCampaign$ctl00$ctl01" class="campaign__agencydropdown" style="display: none;">
+		<option selected="selected" value="10000000-0000-0000-0000-000000000000">V&#230;lg automatisk...</option>
+
+	</select>
+                    <input type="submit" name="ctl00$ctl00$ContentContentPlaceHolder$MainContentPlaceHolder$ContentRendererCaseViewCampaign$ctl00$ButtonSubmit" value="Bestil et Salgstjek" id="ContentContentPlaceHolder_MainContentPlaceHolder_ContentRendererCaseViewCampaign_ctl00_ButtonSubmit" class="campaign__submitbutton campaign-btn " data-attr="spinner" data-attr-ajaxsubmit="true" />
+                </div>
+            </div>
+            <div class="disclaimer--blue">
+                <p>Jeg giver samtykke til, at EDC-gruppen må anvende mine oplysninger til at kontakte mig med nyheder, informationer, tilbud og markedsføring af ydelser inden for ejendomsrelaterede områder via e-mail, sms, telefon eller brev. EDC-gruppen videregiver ikke mine oplysninger til tredjemand, og samtykket kan altid tilbagekaldes via e-mail til <a title="Send mail til edc@edc.dk" href="mailto:edc@edc.dk">edc@edc.dk</a>.</p>
+                
+                    <a class="disclaimer__trigger disclaimer__trigger--simple" href="https://www.edc.dk/kontakttilladelse/Udvidet-permissiontekst/" data-overlay="" data-popup-overlay="">Læs mere</a>
+                
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="campaign__reciepttarget campaign__reciepttarget--no-background"></div>
+</div>
+
+</div>
+                
+<section class="case-facts case-cta case-cta-menu">
+    <div class="case-cta-menu-subcontainer">
+        <div class="left">
+            <ul>
+                
+                    <li>
+                        <a class="book--presentation" data-layer='{&quot;event&quot;: &quot;sagsvisning_fremvisningsform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/bestil-fremvisning/?sagsnr=98401577" data-overlay="" title="Bestil fremvisning">
+                            <span>Bestil fremvisning</span>
+                        </a>
+                    </li>
+                
+
+                
+                    <li>
+                        <a class="case--material" data-layer='{&quot;event&quot;: &quot;sagsvisning_materialeform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/hent-sagsmateriale/?sagsnr=98401577" data-overlay="" title="Hent salgsopstilling">
+                            <span>Hent salgsopstilling</span>
+                        </a>
+                    </li>
+                
+
+                
+                    <li>
+                        <a class="book--contactagency" data-layer='{&quot;event&quot;: &quot;sagsvisning_kontaktform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' href="https://www.edc.dk/sag/kontakt-magler/?sagsnr=98401577" data-overlay="" title="Kontakt os">
+                            <span>Kontakt os</span>
+                        </a>
+                    </li>
+                
+                
+            </ul>
+        </div>
+
+        <div class="right">
+
+            <div class="sticky--openhouse">
+                <ul>
+                    
+                    <li>
+                        <a href="https://www.edc.dk/sag/abent-hus-tilmelding/?sagsnr=98401577" data-layer='{&quot;event&quot;: &quot;sagsvisning_fremvisningsform_step1&quot;, &quot;division&quot;: &quot;page|GTMdivision&quot;}' data-overlay="" title="Se alle åbent hus arrangementer">
+                            Se alle åbent hus arrangementer
+                        </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+            </div>
+
+        </div>
+        
+         <img id="ContentContentPlaceHolder_MainContentPlaceHolder_CaseDisplayPrintFloorPlans_repeaterFloorplans_ImageFloorPlan_0" class="print-image" src="//billeder.edc.dk/edcmedia/2017/11-November/27/5de7e95a-b2db-4a83-ac9d-d2aa9166f73e_Size1920x1080.jpg" />
+    
+    </div>
+
+        
+<div class="cookie__container">
+    <div class="row">
+        <div class="cookie__container--inner">
+            <div class="col-8">
+                <p>Cookies hjælper os med at levere vores tjenester. Ved at bruge vores tjenester accepterer du vores brug af cookies.</p>
+            </div>
+            <div class="col-4 omega">
+                <div class="col__last--inner">
+                    <a href="#" class="cookie__link--accept" id="cookie__input--accept">OK</a>
+                    <a href="/om-edc/cookies-beskrivelse/" class="cookie__link--moreinfo" id="cookie__link" title="Få flere oplysninger">Få flere oplysninger</a>
+                </div>
+                <div class="cookie__close--container">
+                    <a href="#" class="cookie__close--link" id="cookie__close--link">Luk <span class="cookie__icon--close">×</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    <footer role="contentinfo">
+        <div class="contentinfowrapper">
+            
+
+<div class="row">
+    <div class="col-9">
+        
+    <div class="realestate">
+        <h3 class="realestate__header">Find din mægler</h3><p class="realestate__text">Find din lokale mægler hos EDC. Vi er Danmarks største og bedst dækkende ejendomsmæglerkæde - og vi står klar til at hjælpe dig med alt inden for køb og salg af ejendomme.</p>
+        <div class="realestate__response" id="realestate__response"></div>
+    </div>
+    <fieldset class="realestateform" data-validation="on">
+        <div class="realestateform__wrapper"></div>
+        <div class="realestate__groupbuttons">
+            <div class="realestate__buttonwrapper">
+                <input name="ctl00$ctl00$ContentContentPlaceHolder$Footer$FindRealEstateAgent$TextBoxSearchValue" type="text" id="ContentContentPlaceHolder_Footer_FindRealEstateAgent_TextBoxSearchValue" class="realestate__input" autocomplete="off" data-validation-rules="isNotEmpty" data-api="/api/agencyindexautosuggest/getfindrealtorsuggestions" data-footer-id="15" data-isbusiness="False" data-validation-text="Du skal skrive et postnr, by eller kommune" title="Indtast postnr, by eller kommune" placeholder="Indtast postnr, by eller navn på butik/medarbejder" />
+                <div data-js="footer-search-con"></div>
+            </div>
+            <button onclick="__doPostBack(&#39;ctl00$ctl00$ContentContentPlaceHolder$Footer$FindRealEstateAgent$ctl00&#39;,&#39;&#39;)" name="btn" class="realestate__button">Søg</button>
+        </div>
+    </fieldset>
+
+
+
+
+    </div>
+    <div class="col-3 omega">
+        <div class="media">
+            <div class="media__body">
+                <div>
+	<p>Følg med i de nyeste tendenser og boliger på markedet.</p>
+</div>
+                <div class="newsletter-button">
+	
+<a href="/om-edc/nyt-fra-edc/nyhedsbrev/" title="Tilmeld nyhedsbrev" rel="nofollow">Tilmeld nyhedsbrev</a>
+</div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="extend--border"></div>
+</div>
+
+<div class="row">
+    <div class="col-3" data-qa="footer-useful-links">
+        <h3>Nyttige links</h3>
+
+
+        <ul class="linklist">
+    
+        <li class="linklist__item">
+            <a title="Find din køber" class="linklist__link" href="/boligsalg/find-koeber/">Find din køber</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Find ejendomsmægler" class="linklist__link" href="/find-ejendomsmaegler/">Find ejendomsmægler</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Gratis Salgstjek" class="linklist__link" href="/boligsalg/">Gratis Salgstjek</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Køberkartotek" class="linklist__link" href="/boligkoeb/koeberkartotek/">Køberkartotek</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Kontakt os" class="linklist__link" href="/om-edc/kontakt-os/">Kontakt os</a>
+        </li>
+    </ul>
+
+    </div>
+
+    <div class="col-3" data-qa="footer-about-edc">
+        <h3>Om EDC</h3>
+
+
+        <ul class="linklist">
+    
+        <li class="linklist__item">
+            <a title="Presse" class="linklist__link" href="/om-edc/nyt-fra-edc/">Presse</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Nyheder" class="linklist__link" href="/om-edc/nyt-fra-edc/nyheder/">Nyheder</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Nyhedsbrev" class="linklist__link" href="/om-edc/nyt-fra-edc/nyhedsbrev/">Nyhedsbrev</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Om EDC" class="linklist__link" href="/om-edc/">Om EDC</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Karriere" class="linklist__link" href="/om-edc/karriere/">Karriere</a>
+        </li>
+    </ul>
+
+    </div>
+
+    <div class="col-3" data-qa="footer-tools">
+        <h3>Værktøjer</h3>
+
+
+        <ul class="linklist">
+    
+        <li class="linklist__item">
+            <a title="Faktiske handelspriser" class="linklist__link" href="/salgspriser/">Faktiske handelspriser</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Offentlige ejendomsvurderinger" class="linklist__link" href="/offentlige-ejendomsvurderinger/">Offentlige ejendomsvurderinger</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Boligindeks - Postnummer" class="linklist__link" href="/bolig/postnumre-i-danmark/">Boligindeks - Postnummer</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Boligindeks - Kommune" class="linklist__link" href="/bolig/kommuner-i-danmark/">Boligindeks - Kommune</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Lejeindeks - Kommune" class="linklist__link" href="/lejebolig/kommuner-i-danmark/">Lejeindeks - Kommune</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Lejeindeks - Postnummer" class="linklist__link" href="/lejebolig/postnumre-i-danmark/">Lejeindeks - Postnummer</a>
+        </li>
+    </ul>
+
+    </div>
+
+    <div class="col-3 omega" data-qa="footer-popular-searches">
+        <h3>Populære søgninger</h3>
+
+
+        <ul class="linklist">
+    
+        <li class="linklist__item">
+            <a title="Odense" class="linklist__link" href="/sog/?postnr=5000-5090">Odense</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Aarhus" class="linklist__link" href="/sog/?postnr=8000-8011">Aarhus</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Frederiksberg" class="linklist__link" href="/sog/?kommune=frederiksberg">Frederiksberg</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Andelsbolig København" class="linklist__link" href="/sog/?kommune=k%c3%b8benhavn&amp;ejd-typer=8">Andelsbolig København</a>
+        </li>
+    
+        <li class="linklist__item">
+            <a title="Investeringsejendomme" class="linklist__link" href="/erhverv/sog/?b-type=salg&amp;h-type=1">Investeringsejendomme</a>
+        </li>
+    </ul>
+
+        
+    </div>
+    <div class="extend--border"></div>
+</div>
+
+<div class="row">
+    <div class="col-9">
+        
+    </div>
+    <div class="col-3 omega">
+        
+        <ul class="socialplugins">
+    
+        <li class="socialplugins__item">
+            <a class="socialplugins__link icon-facebook" title="Facebook" target="_blank" href="http://www.facebook.com/edcgruppen" data-layer='{&quot;event&quot;: &quot;SocialLink_Footer_Click&quot;, &quot;value&quot;: &quot;facebook.com/edcgruppen&quot;, &quot;division&quot;: &quot;page|division&quot; }'>Facebook</a>
+        </li>
+    </ul>
+
+        
+    </div>
+</div>
+
+<div class="row">
+    <div class="copyright">
+	<p>Copyright ©</p>
+<div>
+		2019,
+
+	</div>
+<p>EDC-gruppen a/s. Alle rettigheder forbeholdes. Læs vores&nbsp;<a title="Læs vores privatlivspolitik" href="/om-edc/privatlivspolitik/">privatlivspolitik</a>,&nbsp;<a title="Læs vores cookiepolitik" href="/om-edc/cookiespolitik/">cookiepolitik</a>&nbsp;og&nbsp;<a title="Læs vores ansvarsfraskrivelse" href="/om-edc/ansvarsfraskrivelse/">ansvarsfraskrivelse</a>.&nbsp;</p>
+</div>
+</div>
+        </div>
+    </footer>
+    
+<!--[if lt IE 9]>
+    <div class="browserwarning divider">
+        <div class="row">
+            <ul>
+                <li class='browserwarning__text'>
+                    Hov, vent et øjeblik!
+                    <p>Vi kan se at du måske benytter en browser af ældre dato. For at få den bedste oplevelse på EDC.dk anbefaler vi at du opgraderer til nyeste version af Internet Explorer, Chrome, Firefox eller Opera.</p>
+                </li>
+                <li class="browserchoice">
+                    <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" class="browser ie" title="Internet Explorer" target="_blank" rel="nofollow">Internet Explorer</a>
+                    <a href="http://www.google.com/chrome" class="browser chrome" title="Chrome" target="_blank" rel="nofollow">Chrome</a>
+                    <a href="https://www.mozilla.org/da/firefox/new/" class="browser ff" title="Firefox" target="_blank" rel="nofollow">Firefox</a>
+                    <a href="http://www.opera.com/da/" class="browser opera" title="Opera" target="_blank" rel="nofollow">Opera</a>
+                </li>
+                <li class="browserwarning__close">
+                        <a title="#" href="#">Luk
+                        <span class="browserwarning__icon">&times;</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+  <![endif]-->
+
+
+        
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="lT8iR5P+SLknkRw/baz3SRyBe2GY/HP45fnKX1WA9ZPxgrXR29XqbOGMdwgDvyGKK6JduJS2NmM8bXTjnhUyw7NgjREHVeWUurplhxSZ97AUWx94W5b0HV2yRAS93IoB/b9cviUtuXbOPi/99brEKPiFrqjEpyPam+en5ySRX+4FYIvbPizqyrXkhqIr48eLDuY9yRcMKttR9OnlVyxFSvDx/Rr3OsXFWWusktxcZGWV19ST9TLS7zaKxbJ+k6VIFCSIHuSUje+i7ec7LcobCBFqCVX9AbUw8ujYgWwrknDZCqM/oi8hdYbVPvVCLlyeP0hoE9qGm5gr2OgVGVkHp0Yaw1Tk/MYa/3nYyVua3qqmxpycsTaD4YDKOX7uofRu3ahT+Ky4VXPkQPGL0QihYElalzAb+q54wFCo1vqeUQgn8otab8ljuivBCPG2C3Xcg5cu3ulIqo+EDIPCvohjdzsJ3Z8szvVwq424QdJrD/yzOAHjQBiS75fWND1AOh2e1LPN5kA4omFJRJLUWa5tdhffNOn9TY5td8jjY7lZVEXLxvG93WPIb3+9gUg8isIdh4p8jIVPtSWP346hhfPScOd4irltaaOJkZOaWTottjj+ZOhZDSP00IK5SQ32MW0Ri9eXIoJO2cGdJNWg2vQGUCmHI6kGUvu3GnLEu9aajXL535ZkmSgElQ0IvQv+PMe3HgQWin7wbosZa2nrKgBfGihUpPlGJyv6r7SZH4TB4T/ggrOUFG97QQjHb08ODGomJ51UboFfErZrgix0ZuiK9foGLGjKh80DuoWYi5kNSfEO/m5q4djPH2gDD7rnXXWwXDA/NCJsBjC0NvLqJTeiTWwssruygG8vWYZ6MeLgn1nPVI4PG+P9w5Cxd+v60VO0tsghpuVhVzXGWbR5klJAs5NbO+6X0xtH5yibqEioJpCd8L6IM7DdPWfpcIRBAo9oQyY+YKgLR3mrmla01+Kgngq2zk7SIgxgFE8AeJNTLVemx0SZn0EtzTxjI7XGuowkMWiIL4ZQf8WvcK5dwi7whYniivx3rtd1kXbyicnZ7fS9/gNmtvE8RxB4WbZ0797DuBWkel6x6EbqCRPMUFWlyAezCZjRGpREDz5H7i1/Yw0vLhTMi94uw2YWQfWOUCElasowQs6NKu5s8J5H9z7TmRjj9EQfvhhf+F+3JJdYtEMrlBwJnsEofGUgimrqx8kztR4DgXGAYKLh/DjmmbHt3PuQw7xItWxwLqLJKoQVzFmcx3IrQ1E5aoHW16iB34LqNQgAN0kAbimizB4hKKlsEO42BE5NI3553j+JNC02mYhoPnOOgOT/gWIXPP3oc5BYFxfHPuvk7RtLfuTw8JqdQHXtrJZOcGW2zD1TquN1lrLZvUO/0E3SC1Ujkbue0R+WRi39/b5k+VADBKnqBdhwuf6APf9EaPNRo+4XPkEfWieXKGCr5MeMkor8/o4Tghiq3J2phmQKMI3KpYEMnSk3lncBfuWPMQZDETMreKI3hgQepyjFf9kfZWAD10zX9vMmT1BNrAJ78TCeV4eWvPjUcou6r3g6k0uj0wNR6Fo951vzd1Aipe5x9n6ZlYobLjiVF+tk+TengxOGlotUHPpUwA8NjiUa1+yVXIWPPfrSemLXuAcIFmhX287dTF6kGT/bcVU3sx4hAth6SpFzkOLi/3omtCwPwzaYek2nUteg7yS9YG8Cbh8Khtp/VosP1mOBydFT4K/7gvWdJftyjy5dcFAbCOe2A+y3eaggipfGKlPoU0O0qUPPV6d2bfVmUT6s5+AiCbYuMKsrAYEvuIy8lPl2CIRMIU9BAqNjPNtv7sz6irvwkTJMBLx9wIyX3G0VrSkuYyIl3u8Whp6tmQpUziHJOQ8UCbTVy7mHXPLIa2muYsKmwCwa7hXcag2cV9bNFNMsQDKmKSQxZGE6RR56RX4LHaNzPTKRpEWOBJMX++or1CmCo9mW0m2nEXvicLhZEUmwgoYoaT3A4mgtFARae0AWKhEuvHc8+8SnX1HmISOk+ZdUTFzhQ6q6W18Nej08fCGUUXEhBtnNJNOHyTUfNu3CuYkrZ65qZ5kcyEXFabvkbJs1PwckCz9aQIMT+Yz6AfvydqfTrLI6FnrIJtS2lc2RlKj3i+DeDMN4UUFz+9+XhrLyynK3ohpWW/xwxHF5u+dHkHDtOjf0CQChFrDv7jsiCHxopXCxLx8csHPkse3FfM8jMPxtII0tpT10zc1L/Isyy53lpaZr/D2B+ErKI21c8Wap8YLCXlG/xYXyurDrBuTn0NzXNMeI3Dm78MC2" />
+</div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" /></form>
+      
+
+    <script type="text/javascript">var digitalData={page:{contentId:'10250',type:'CaseViewPage',name:'EDC~Privat~Sag-bolig',division:'EDC~Privat',GTMdivision:'Privat',section:'',languageCode:'da',alias:'',url:'https://www.edc.dk/alle-boliger/hj%C3%B8rring/9800/klitten-7/?sagsnr=98401577',urlWithoutQuerystring:'https://www.edc.dk/alle-boliger/hjørring/9800/klitten-7/',querystring:'sagsnr=98401577',urlNotFoundPage:'',urlNotFoundPageReferrer:'',errorPageReferrer:'',caseTypeGroup:'private',isFlowPage:'0',leadToAdobeLog:2},CaseViewPage:{caseNumber: '98401577',agencyNumber: '984',caseType: 'Salg',caseTypeGroup: 'Privat',municipalCode: '860',municipalName: 'Hjoerring',zipCode: '9800',city: 'Hjoerring',address: 'Klitten 7, Loenstrup',estateTypeCode: '5',estateTypeName: 'Fritidshus',price: '2695000',pricePSM: '31337',isCaseNumberSearch: '0',isFirstViewInSession: '1',priceRangeGroup: '2750000',yearBuilt: '1979',energiClass: '',},client:{year:'2019',timezoneoffset: '1',hourOfDay:'',dayOfWeek:'',week:'',daysSinceLastVisit:'',percentageOfPageViewed:'',previousPage:'',hourOfDayServer:'23-00',dayOfWeekServer:'tirsdag',weekNumberServer:'29',ip:'192.168.228.203',host:'EDCDKWEB03',serverMode:'Production',adobeDebug:0,mitEdcLoggedIn:'0',cookie:{allowed:'0',agencyNumber:'',zipCode:''}},mitEdc:{id:'',autoLogin:'0',email:'',type:'',zipCode:'',agencyNumber:'',caseNumber:''},transaction:{id:'',customerId:''},campaign:{id:'f9c52ffc-adef-4884-8168-d926c5859e6b',name:'2019 Uge 27 - Kampagne ',products:';EDC~Privat~2019 Uge 27 - Kampagne ',postData:'',leadData:'',state:'scCheckout',formName:'Salgstjek-sagsvisning - Sag-bolig',},referer:{cid:'',icid:'',source:''}};</script>
+
+    
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/Static/Scripts/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+
+
+<script src="/static/scripts/edc?v=rjvx-rE2ohFV1j9f1n6viOgnzG7jFqSGPSYngl-LL-E1"></script>
+
+<script src="/static/scripts/edc-js?v=7LWWhE6Qn1dC3mEJABrXVXVopsd3A_2p8qm_-rrNiy81"></script>
+
+
+<script src="/static/scripts/casedisplay-js?v=wmxf2vKeojDjt9YlP8HZysWxqJJipIxh9p8Ks9I3NtQ1"></script>
+
+
+                        
+
+
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+ //   window.dataLayer = window.dataLayer || [];
+    dataLayer.push({"loggedin":"false"});
+</script>
+
+    
+</body>
+</html>

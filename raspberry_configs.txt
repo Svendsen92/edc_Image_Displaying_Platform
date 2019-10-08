@@ -1,0 +1,21 @@
+
+"start script on boot"{
+$ cd ~/.config/lxsession/LXDE-pi/
+$ nano autostart
+
+add the following line at the end of the file:
+
+@lxterminal -e /home/pi/Desktop/edc_project/main 
+
+}
+
+
+"hide the mouse cursor when inactive"{
+$ cd ~/.config/lxsession/LXDE-pi/
+$ nano autostart
+
+add the following line at the end of the file:
+
+@unclutter -display :0 -noevents -grab 
+
+}
