@@ -9,8 +9,8 @@ A Raspberry Pi is used as the device to be connected to the given monitor via an
 ### *How to get it running*
 This application was build to run on linux operating system such as Ubuntu and Raspian(Raspberry Pi).
 
-If the Raspberry Pi is used these installation steps must be followed: [installing_external_lib_for_raspberry_jessie.txt]installing_external_lib_for_raspberry_jessie.txt
-If the Raspberry Pi is used these installation steps must be followed: [installing_external_libs_for_ubuntu16-04.txt]installing_external_libs_for_ubuntu16-04.txt
+If the Raspberry Pi is used these installation steps must be followed: [installing_external_lib_for_raspberry_jessie.txt](installing_external_lib_for_raspberry_jessie.txt) <br>
+If the Raspberry Pi is used these installation steps must be followed: [installing_external_libs_for_ubuntu16-04.txt](installing_external_libs_for_ubuntu16-04.txt)
 
 Now the application should be able to running.
 
