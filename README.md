@@ -12,6 +12,10 @@ This application was build to run on linux operating system such as Ubuntu and R
 If the Raspberry Pi is used these installation steps must be followed: [installing_external_lib_for_raspberry_jessie.txt](installing_external_lib_for_raspberry_jessie.txt) <br>
 If the Raspberry Pi is used these installation steps must be followed: [installing_external_libs_for_ubuntu16-04.txt](installing_external_libs_for_ubuntu16-04.txt)
 
+- Open a terminal and navigate to the parent folder aka "edc_image_Displaying_Platform-master" and run the following commands:
+   1. $ make
+   2. $ ./main
+      
 Now the application should be able to running.
 
 ### *How to use to application*
